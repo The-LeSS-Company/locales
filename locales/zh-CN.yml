@@ -1,0 +1,480 @@
+---
+zh-CN:
+  fonts:
+    "MarkerFelt-Thin": "HanziPenSC-W3"
+    "MarkerFelt-Wide": "HanziPenSC-W5"
+  font_size: 1
+
+  all:
+    'potentially shippable ': '潜在可交运 '
+    less framework: LeSS框架
+    underlined ones are the definition of done: 带下划线的是完成的定义(DoD)
+    monkey: 猴子
+    system: 系统
+    ? "user acceptance\racceptance"
+    : "用户验收\r验收"
+    ? "unit\rintegration"
+    : "单元\r集成"
+    ? "performance\rstability\rusability\rstress"
+    : "性能\r稳定性\r可用性\r压力"
+    smoke: 冒烟
+    "+ test": "+ 测试"
+    ? "+ update marketing material\r"
+    : "+ 更新市场宣传材料\r"
+    ? "+ static analysis\r+ integration\r+ packaging\r+ staging\r"
+    : "+ 静态分析\r+ 集成\r+ 打包\r+ 测试服务器\r"
+    ? "+ customer documentation\r"
+    : "+ 客户文档\r"
+    ? "+ risk evaluation\r"
+    : "+ 风险评估\r"
+    ? "+ code\r"
+    : "+ 写代码\r"
+    ? "+ approval\r"
+    : "+ 验收\r"
+    ? "+ regulation\r"
+    : "+ 制定标准\r"
+    ? "+ prepare for customer feedback\r"
+    : "+ 准备接收客户反馈\r"
+    undone: 末完成
+    r1-20: r1-20
+    ? "product\rowner"
+    : "产品\r负责人"
+    now: 现在
+    r41-60: r41-60
+    r21-40: r21-40
+    ? "undone\rdepartment"
+    : "未完成\r部门"
+    release: 发布
+    ? "i want\rto ship"
+    : "我想\r交付"
+    ? "release\rsprints"
+    : "发布\rSprints"
+    ? "risk and lack of transparency\rdelay and lack of flexibility"
+    : "风险和缺乏透明度\r延迟和缺少灵活性"
+    less product backlog refinement: LeSS产品待办事项列表梳理
+    ? "multi-team product\rbacklog refinement"
+    : "多团队产品\r待办事项列表梳理"
+    product backlog: "产品待办事项列表"
+    ? "items selected\rfor refinement"
+    : "已经选出来\r做梳理的条目"
+    5 - 10% sprint: 一个Sprint的5 - 10%
+    short-ish: 较短
+    ? "product\rbacklog\rrefinement"
+    : "产品代\r办事项列表\r梳理"
+    ? "overall\rproduct\rbacklog\rrefinement"
+    : "全体\r产品代\r办事项列表\r梳理"
+    product owner: 产品负责人
+    ? "team or\rrepresentative(s)"
+    : "团队或代表\r（可多人）"
+    ? "users\r& stakeholders"
+    : "用户\r和利益相关者"
+    ? "mixed group\rfrom teams"
+    : "由多个团队混在一起"
+    team: 团队
+    less sprint planning: LeSS的Sprint计划
+    ? "multi-team\rsprint planning 2"
+    : "多团队\rSprint计划2"
+    sprint backlog: Sprint待办事项列表
+    selected items: 已选中的条目
+    ? "initial design \r& plan"
+    : "初步的设计\r与计划"
+    ? "selection & final\rclarification\rof items"
+    : "条目的\r选择\r和最终确认"
+    ? "sprint\rplanning 2"
+    : "Sprint计划会2"
+    ? "sprint\rplanning 1"
+    : "Sprint计划会1"
+    ? "team or\rrepresentative(s) "
+    : "团队或代表\r（可多人）"
+    component mentor: 部件导师
+    open space: 开放空间
+    communities: 社区
+    traveler: 旅行者
+    communicate in code: 用代码来沟通
+    just talk: 直接去谈
+    scout: 童子军
+    less sprint review & retrospective: LeSS的Sprint评审会和回顾会
+    ? "overall\rretrospective"
+    : "全体\r回顾会"
+    ? "team\rretrospective"
+    : "团队\r回顾会"
+    ? "sprint\rreview"
+    : "Sprint\r评审"
+    team rep.: 团队代表
+    scrummaster: ScrumMaster
+    manager: 经理
+    ? "area\rbacklog"
+    : "领域待办\r事项列表"
+    ? "product\rbacklog"
+    : "产品待办\r事项列表"
+    ? "potentially\rshippable\rproduct\rincrement"
+    : "潜在\r可交运\r产品\r增量"
+    ? "next\rsprint"
+    : "下个\rSprint"
+    overall retrospective: "全体回顾会"
+    retrospective: 回顾会
+    sprint review: Sprint评审
+    ? "scrum master\r& feature team"
+    : "ScrumMaster\r和功能团队"
+    ? "sprint\rbacklog"
+    : "Sprint\r待办事项列表"
+    ? "previous\rsprint"
+    : "前一个\rSprint"
+    coordination: 协调
+    daily scrum: 每日Scrum会
+    transparency: 透明
+    ? "more\rwith less"
+    : "以少\r为多"
+    ? "customer\rcentric"
+    : "以用户为中心"
+    ? "whole\rproduct\rfocus"
+    : "关注\r整个产品"
+    ? "large-scale\rscrum is scrum"
+    : "大规模Scrum仍是Scrum"
+    ? "empirical\rprocess control"
+    : "经验\r过程控制"
+    ? "continuous improvement\rtowards perfection"
+    : "向完美\r持续改进"
+    ? "lean\rthinking"
+    : "精益\r思想"
+    ? "systems\rthinking"
+    : "系统\r思维"
+    queueing theory: 排队论
+    experiments: 试验
+    guide: 指导
+    frameworks: 框架
+    principles: 原则
+    ? "potentially shippable \rproduct increment"
+    : "潜在可交运\r产品增量"
+    ? "scrummaster\r& feature team"
+    : "ScrumMaster\r和功能团队"
+    why less framework?: 为什么要用LeSS框架？
+    ? "this is regulatory,\rpaolo. it’s never\rfinished or clear."
+    : "这是规章类型的工作，\r保罗。它总是不完整\r或者不清楚的。"
+    ? "so this covers\rall the work right?"
+    : "这里包含了\r所有的工作，对吧？"
+    getting started: 从这里开始
+    ? "feature team\radoption map"
+    : "功能团队\r引入地图"
+    adoption: 引入
+    continuous improvement: 持续改进
+    coaching: 教练
+    three principles: 三个原则
+    ? "component\ra"
+    : "组件\ra"
+    ? "component\rb"
+    : "组件\rb"
+    ? "component\rc"
+    : "组件\rC"
+    ? "comp c\rteam"
+    : "组件 c\rteam"
+    ? "comp b\rteam"
+    : "组件 B\rteam"
+    "...": "..."
+    item 4: 条目 4
+    item 3: 条目 3
+    item 2: 条目 2
+    item 1: 条目 1
+    ? "comp a\rteam"
+    : "组件 a\r团队"
+    ? team has the necessary knowledge and skills to complete an end-to-end customer-centric
+      feature. if not, the team is expected to learn or acquire the needed knowledge
+      and skill.
+    : 团队具有完成端到端以用户为中心的功能的必需知识和技能。如果没有，团队应当去学习以获得这些必需的知识和技能。
+    feature team: 功能团队
+    ? "cross-functional\rcross-component\rstable and long-lived"
+    : "跨职能\r跨组件\r稳定和长期的"
+    ? "potentially shippable\rproduct increment"
+    : "潜在可交运\r产品增量"
+    ? "customer\rcentric\rfeature"
+    : "以用户\r为中心的\r功能"
+    ? "ideal state!\rhard to achieve,\rgood to work towards"
+    : "理想状态！\r很难达到，\r是很好的工作目标"
+    ? "feature\rteams"
+    : "多个功能\r团队"
+    ? "component\rteams"
+    : "多个组件\r团队"
+    ? "functional\roverspecialization"
+    : "功能定义\r过细"
+    activity (function) inside the team. degree of cross-functionality: 团队内的活动（功能）/ 跨功能的程度
+    ? "extended component teams\rconflict in scope in the team\rleading to duplication
+      or\radditional coordination work"
+    : "扩展的组件团队\r团队间关于范围的冲突导致\r重复的或额外的协调工作"
+    "+co-creation": "+共创"
+    ? "+analysis and\r  system test"
+    : "+分析和\r系统测试"
+    ? "+design and\r  unit test"
+    : "设计和\r单元测试"
+    code: 代码
+    ? "+subsystem\rarchitecture\rand test"
+    : "+子系统\r架构和\r测试"
+    nothing: 什么也没有
+    potential technology work scope inside the team: 团队内潜在的技术工作范围
+    component: 组件
+    subsystem: 子系统
+    whole product: 整个产品
+    whole system: 整个系统
+    problem: 问题
+    ? "would require involvement in\rstandardization oftelecom network"
+    : "将需要涉及到\r通信网络标准化"
+    ? "organizational constraint\ror scope of product group"
+    : "组织上的约束\r或产品组的控制范围"
+    outside current organizational scope: 在当前组织的控制范围之外
+    goal next few years: 妆下来几年的目标
+    current state: 当前状况
+    ? "original teams\rbefore less adoption"
+    : "在引入LeSS之前原来的团队"
+    "+standardization": "+标准化"
+    ? "+system design and\r system verification"
+    : "+系统设计和\r系统验证"
+    ? "+specification and\r  entity integration test"
+    : "+规格说明\r和实体集成测试"
+    ? "+sc design and\r sc test"
+    : "+SC设计和\rSC测试"
+    file/class: 文件/类
+    system component: 系统组件
+    telecom network: 电信网络
+    ? "would require involvement in lots\rof other companies in the ecosysytem"
+    : "将需要涉及整个\r生态圈内很多其他公司"
+    ? "scope of\rproduct group"
+    : "产品组的控制范围"
+    ? "+analysis\rand uat"
+    : "+分析和\r用户验收测试"
+    subcomponent: 子组件
+    application: 应用程序
+    trading product: 交易产品
+    " feature teams": " 多个功能团队"
+    wu team: 团队吴
+    shu team: 团队蜀
+    wei team: 团队魏
+    component teams: 多个组件团队
+    ? "feature\rteam red"
+    : "功能团队\r红队"
+    ? "item 4\r\ttasks for a\r\ttasks for c"
+    : "条目4\r\t涉及到A的任务\r\t涉及到C的任务"
+    ? "item 3\r\ttasks for a\r\ttasks for b"
+    : "条目3\r\t涉及到A的任务\r\t涉及到B的任务"
+    ? "item 2\r\ttasks for a\r\ttasks for b"
+    : "条目2\r\t涉及到A的任务\r\t涉及到B的任务"
+    new requirements area: 新的需求领域
+    ? "competence\r& coaching"
+    : "能力\r与教练"
+    ? "product owner\rteam"
+    : "产品负责人\r团队"
+    support: 支持
+    site: 研发中心
+    'team #n': '团队#n'
+    'team #2': '团队#2'
+    'team #1': '团队#1'
+    head of product: 产品领导
+    head of product group: 产品组领导
+    feature teams: 多个功能团队
+    ? "organizational\rstructure"
+    : "组织\r结构"
+    ? "organizing\rby customer value"
+    : "依客户价值\r来组织"
+    structure: 结构
+    teams: 团队们
+    trade processing feature teams: 交易处理功能团队们
+    new-market onboarding feature teams: 新兴市场开展功能团队
+    ? "item 1\r...\r..."
+    : "条目 1\r...\r..."
+    ? "trade processing\ritem 3\ritem 4\r...."
+    : "交易处理\r条目 3\r条目 4\r...."
+    ? "new-market\ronboarding\ritem 1\ritem 2\r..."
+    : "新兴市场\r开展\r条目 1\r条目 2\r..."
+    area product owner: 领域产品负责人
+    ? "analyst\rteams"
+    : "分析师\r团队们"
+    specialization in customer dimension: 在用户方面的专业程度
+    specialization in technology dimension: 在技术方面的专业程度
+    managers: 经理们
+    organization: 组织
+    at gemba of value creation: 在创造价值的“现场”
+    at gemba of value consumption: 在价值被消费的“现场”
+    users: 用户们
+    ? "focus on\rcapability\rimprovement"
+    : "专注于\r能力\r改进"
+    value: 价值
+    need: 需要
+    ? "product\rfocus"
+    : "专注于\r产品"
+    ? "organizational\rfocus"
+    : "专注于\r组织"
+    scrum master: ScrumMaster
+    ? "product vision\r& direction"
+    : "产品愿景\r和方面"
+    ? "product creation\r& delivery"
+    : "产品创造\r和交付"
+    ? "organizational\rcapability\rimprovement"
+    : "组织上的\r能力\r改进"
+    ? "product owner\r- provide vision and direction\r- prioritize features\r- understand
+      users and markets\r- support organizational\r  strategic direction\r\r"
+    : "产品负责人\r- 提供愿景和方向\r- 为功能排优先级\r- 理解用户和市场\r- 对组织提供\r  战略方向支持\r\r"
+    ? "teams\r- create product\r- deliver product increment\r- coordinate and integrate\r-
+      improve product creation\r- clarify features\r- understand user and\r  domain,work
+      with them"
+    : "团队\r- 创造产品\r- 交付产品增量\r- 协调及集成\r- 改进产品生产\r- 澄清功能\r- 理解用户和领域，\r  并与他们一起工作"
+    ? "managers\r- improve capability of\r   development system\r- decide structure
+      and policies"
+    : "经理\r- 改进研发体系\r   的能力\r- 为组织结构和政策做决定"
+    ? "scrum master\r- coach organization\r- support continuous improvement"
+    : "ScrumMaster\r- 做组织的教练\r- 支持持续改进"
+    focus: 专注
+    time: 时间
+    ? "development\rpractices"
+    : "开发\r实践"
+    ? "customers\r& users"
+    : "客户\r与用户"
+    ? "higher\rmanagement"
+    : "高层\r管理者"
+    ? "customers\r/users"
+    : "客户\r/用户"
+    product development: 产品开发
+    product development company: 产品开发公司
+    ? "r&d/ engineering/\rdevelopment"
+    : "研发中心/工程\r开发"
+    ? "product management/\rmarketing/ business unit"
+    : "产品管理/\r市场/商务部门"
+    ? "technology/\rstandards features"
+    : "技术/\r标准功能"
+    ? "customer\rfeature\rrequests"
+    : "客户\r功能\r请求"
+    customers/markets: 客户/市场
+    h: 巨
+    ? "uge\ritem"
+    : "型\r条目"
+    ? "a1\r...\r...\r..."
+    : "A1\r...\r...\r..."
+    huge: 巨型
+    '': ''
+    a3: A3
+    a2: A2
+    area: 领域
+    a1: A1
+    ? "item\r...\r...\r..."
+    : "条目\r...\r...\r..."
+    item: 条目
+    items: 多个条目
+    ? "area product\rowner"
+    : "领域产品\r负责人"
+    ? "area backlog\r“huge”"
+    : "领域待办事项列表\r“巨型”"
+    ? "bite #1\rbite #2\rbite #3\r\rmedium #1\rmedium #2\rmedium #3"
+    : "一口量 #1\r一口量 #2\r一口量 #3\r中块 #1\r中块 #2\r中块 #3"
+    updated area backlog: 更新过的领域待办事项列表
+    ? "start new team\rin area"
+    : "在领域中\r开始新团队"
+    ? "in product backlog\rrefinement"
+    : "在产品待办事项列表\r梳理会中"
+    ? "partial split\r& bite"
+    : "部分拆分\r和“咬一口”"
+    area backlog “huge”: 领域待办事项列表“巨型”
+    ? "bite #1\rbite #2\rbite #3\rsmall #1\rsmall #2\rsmall #3\r\rmedium #3\rmedium
+      #4\rmedium #5"
+    : "一口量 #1\r一口量 #2\r一口量 #3\r小块 #1\r小块 #2\r小块 #3\r\r中块 #3\r中块 #4\r中块 #5"
+    ? "up to 50%\rrefinement"
+    : "最多占\r梳理会的50%"
+    area backlog: 领域待办事项列表
+    done: 完成
+    sprints: 多个Sprint
+    ? "team #1 becomes\rleading team"
+    : "团队＃1成为\r领头团队"
+    ? "team #2 joins\rbacklog refinement\rto learn new area"
+    : "团队＃2加入\r待办事项列表梳理会\r来学习新领域"
+    ? "team #2\rjoins area"
+    : "团队＃2加入\r新领域"
+    ? "start new\rteam in area"
+    : "在领域中\r开始新的团队"
+    ? "take a bite\rto start"
+    : "只选一口能咬下\r的工作来开始"
+    ? "partial splitting\rand taking a bite"
+    : "部分拆分\r和“咬一口”"
+    ? "less splitting\rof big feature"
+    : "LeSS中大块功能\r的拆分"
+    ? "traditional splitting\rof big feature"
+    : "大块功能的\r传统拆分方法"
+    ? "all-at-once in equal\rpieces at the beginning"
+    : "在一开始就一下子\r拆成均等的小块"
+    ? "teaching problem\rsolving"
+    : "传授解决\r问题的技能"
+    self-management: 自管理
+    go see: 实地查看
+    management: 管理层
+    ? "improvement\rservice"
+    : "改进\r服务"
+    ? "manager\ras scrummaster?"
+    : "经理\r做ScrumMaster?"
+    role of manager: 经理的角色
+    continuous delivery: 持续交付
+    clean code: 整洁代码
+    ? "architecture\r& design"
+    : "架构\r与设计"
+    ? "technical\rexcellence"
+    : "技术\r卓越"
+    unit testing: 单元测试
+    ? "acceptance\rtesting"
+    : "验收\r测试"
+    specification by example: 实例化需求
+    test automation: 测试自动化
+    thinking about testing: 关于设计的思考
+    test-driven development: 测试驱动开发
+    ? "continuous\rintegration"
+    : "持续\r集成"
+  chapters:
+    book--chapter_10_potentially_shippable_done--undone-dod: {}
+    book--chapter_10_undone--undone: {}
+    book--chapter_10_undone_department--undone-5-2: {}
+    book--chapter_10_undone_piling_up--undone: {}
+    book--chapter_10_undone_pipelining--undone: {}
+    book--chapter_10_undone_release_sprint--undone: {}
+    book--chapter_10_undone_risk--undone: {}
+    book--chapter_11_backlog_refinement--refinement: {}
+    book--chapter_12_sprint_planning--sprint: {}
+    book--chapter_13_communicate_in_code--roles: {}
+    book--chapter_13_communities--roles: {}
+    book--chapter_13_component_mentors--roles: {}
+    book--chapter_13_coodination_integration--roles: {}
+    book--chapter_13_just_talk--roles: {}
+    book--chapter_13_open_space--roles: {}
+    book--chapter_13_scout--roles: {}
+    book--chapter_13_travelers--roles: {}
+    book--chapter_14_sprint_review--review: {}
+    book--chapter_2_and_web_LeSS Huge--less-huge: {}
+    book--chapter_2_and_web_principles--chapter-3-1: {}
+    book--chapter_2_circle--chap2-circle: {}
+    book--chapter_2_LeSS--why: {}
+    book--chapter_2_story_1--stories-1-1: {}
+    book--chapter_2_story_2--stories-2: {}
+    book--chapter_2_story_3--story-3: {}
+    book--chapter_2_story_4--stories-4: {}
+    book--chapter_2_story_5--bazaar-1-1: {}
+    book--chapter_2_story_6--room-1: {}
+    book--chapter_3_adoption--adoption: {}
+    book--chapter_3_coaching--coaching: {}
+    book--chapter_4_component_team_model--sketch-3: {}
+    book--chapter_4_feature_team--team-sketch-3: {}
+    book--chapter_4_feature_team_adoption_map--type-team-1: {}
+    book--chapter_4_feature_team_adoption_map_telecom--type-team-lte-1: {}
+    book--chapter_4_feature_team_adoption_map_trading--ype-team-jpm-1: {}
+    book--chapter_4_feature_team_model--feature-team-model-sketch-3: {}
+    book--chapter_4_feature_vs_component_team_model--component-vs-feature-team-sketch-1: {}
+    book--chapter_4_gradual_transition_to_feature_teams--transition-component-team-slow-1: {}
+    book--chapter_4_less_huge_organization--org-less-huge-sketch-3: {}
+    book--chapter_4_less_organization--org-less-1: {}
+    book--chapter_4_organizing_around_customer_value_cover--organize_by_customer_value: {}
+    book--chapter_4_requirement_areas--ra-team-sketch-2: {}
+    book--chapter_4_specialization--speacialisation-1-1: {}
+    book--chapter_4_structure--org_structure: {}
+    book--chapter_5_less_organization--mangement-gemba-2-3: {}
+    book--chapter_5_product_organization_scale--scale-2: {}
+    book--chapter_5_responsibilities--mangement-scrum-4: {}
+    book--chapter_6_component_focus--component-focus-sketch-3: {}
+    book--chapter_6_interfaces--interfaces-1: {}
+    book--chapter_8_relationships--interfaces-2: {}
+    book--chapter_8_types_of_development--PO-4-3: {}
+    book--chapter_9_splitting_gigantic_1--splitting-2: {}
+    book--chapter_9_splitting_gigantic_2--splitting-3: {}
+    book--chapter_9_splitting_gigantic_3--splitting-4: {}
+    book--chapter_9_splitting_gigantic_4--splitting-5: {}
+    book--chapter_9_types_of_splitting--splitting-1: {}

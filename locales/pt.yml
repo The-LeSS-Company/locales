@@ -1,0 +1,401 @@
+---
+pt:
+  fonts:
+    "MarkerFelt-Thin": "MarkerFelt-Thin"
+    "MarkerFelt-Wide": "MarkerFelt-Wide"
+
+  all:
+    'potentially shippable ': 'potencialmente lançavel '
+    less framework: Framework LeSS
+    underlined ones are the definition of done: os sublinados correspondem à definição de pronto(DoD)
+    monkey: macaco
+    system: sistema
+    ? "user acceptance\racceptance"
+    : "aceitação do usuário\raceitação"
+    ? "unit\rintegration"
+    : "unitário\rintegração"
+    ? "performance\rstability\rusability\rstress"
+    : "desempenho\restabilidade\rusabilidade\rstress"
+    smoke: fumaça
+    "+ test": "+ teste"
+    ? "+ update marketing material\r"
+    : "+ atualizar material de marketing\r"
+    ? "+ static analysis\r+ integration\r+ packaging\r+ staging\r"
+    : "+ análise estática\r+ integração\r+ empacotamento\r+ cenário\r"
+    ? "+ customer documentation\r"
+    : "+ documentação do cliente\r"
+    ? "+ risk evaluation\r"
+    : "+ avaliação de risco\r"
+    ? "+ code\r"
+    : "+ códigor"
+    ? "+ approval\r"
+    : "+ aprovação\r"
+    ? "+ regulation\r"
+    : "+ regulação\r"
+    ? "+ prepare for customer feedback\r"
+    : "+ preparar para o feedback do cliente\r"
+    undone: não feito
+    r1-20: r1-20
+    ? "product\rowner"
+    : "product\rowner"
+    now: agora
+    r41-60: r41-60
+    r21-40: r21-40
+    ? "undone\rdepartment"
+    : "não feito\rdepartamento"
+    release: 发布
+    ? "i want\rto ship"
+    : "eu quero\rlançar"
+    ? "release\rsprints"
+    : "release\rSprints"
+    ? "risk and lack of transparency\rdelay and lack of flexibility"
+    : "risco e falta de transparência\ratraso e falta de flexibilidade"
+    less product backlog refinement: refinamento do product backlog LeSS
+    ? "multi-team product\rbacklog refinement"
+    : "produto multiequipe\rrefinamento do backlog"
+    product backlog: "product backlog"
+    ? "items selected\rfor refinement"
+    : "itens selecionados\rpara refinamento"
+    5 - 10% sprint: 5 - 10% da sprint
+    short-ish: curto
+    ? "product\rbacklog\rrefinement"
+    : "refinamento do\rproduct\rbacklog"
+    ? "overall\rproduct\rbacklog\rrefinement"
+    : "refinamento\rgeral do\rproduct\rbacklog"
+    product owner: product owner
+    ? "team or\rrepresentative(s)"
+    : "equipe ou\rrepresentante(s)"
+    ? "users\r& stakeholders"
+    : "usuários\r& stakeholders"
+    ? "mixed group\rfrom teams"
+    : "grupo mesclado\rdas equipes"
+    team: equipe
+    less sprint planning: planjamento de sprint LeSS
+    ? "multi-team\rsprint planning 2"
+    : "planejamento de sprint - Parte 2\rmultiequipe"
+    sprint backlog: Sprint backlog
+    selected items: itens selecionados
+    ? "initial design \r& plan"
+    : "design inicial\rplano"
+    ? "selection & final\rclarification\rof items"
+    : "seleção e final\resclarecimento\rdos itens"
+    ? "sprint\rplanning 2"
+    : "planejamento\rda Sprint - Parte 2"
+    ? "sprint\rplanning 1"
+    : "planejamento\rda Sprint - Parte 1"
+    ? "team or\rrepresentative(s) "
+    : "equipe ou\rrepresentante(s) "
+    component mentor: mentor de componente
+    open space: open space
+    communities: comunidades
+    traveler: viajante
+    communicate in code: comunicar em código
+    just talk: apenas converse
+    scout: escoteiro
+    less sprint review & retrospective: Revisão e retrospectiva LeSS
+    ? "overall\rretrospective"
+    : "retrospectiva\rgeral"
+    ? "team\rretrospective"
+    : "retrospectiva\requipe"
+    ? "sprint\rreview"
+    : "revisão\rSprint"
+    team rep.: repres. equipe
+    scrummaster: ScrumMaster
+    manager: gerente
+    ? "area\rbacklog"
+    : "área\rbacklog"
+    ? "product\rbacklog"
+    : "product\rbacklog"
+    ? "potentially\rshippable\rproduct\rincrement"
+    : "potencial\rincremento\rlançável\rde produto"
+    ? "next\rsprint"
+    : "próxima\rSprint"
+    overall retrospective: "retrospectiva geral"
+    retrospective: retrospectiva
+    sprint review: revisão da Sprint
+    ? "scrum master\r& feature team"
+    : "ScrumMaster\requipe de funcionalidade"
+    ? "sprint\rbacklog"
+    : "Sprint\rbacklog"
+    ? "previous\rsprint"
+    : "Sprint\ranterior"
+    coordination: coordenação
+    daily scrum: Daily Scrum
+    transparency: transparência
+    ? "more\rwith less"
+    : "mais\rcom menos"
+    ? "customer\rcentric"
+    : "foco\rno cliente"
+    ? "whole\rproduct\rfocus"
+    : "foco\rem todo o\rproduto"
+    ? "large-scale\rscrum is scrum"
+    : "Scrum em larga escala\ré Scrum"
+    ? "empirical\rprocess control"
+    : "controle de processos\rempíricos"
+    ? "continuous improvement\rtowards perfection"
+    : "melhoria contínua\rrumo a perfeição"
+    ? "lean\rthinking"
+    : "pensamento\renxuto"
+    ? "systems\rthinking"
+    : "pensamento\rsistêmico"
+    queueing theory: teoria das filas
+    experiments: experimentos
+    guide: orientação
+    frameworks: frameworks
+    principles: princípios
+    ? "potentially shippable \rproduct increment"
+    : "potencialmente incremento \rde produto lançavel"
+    ? "scrummaster\r& feature team"
+    : "ScrumMaster\requipe de funcionalidade"
+    why less framework?: Por que Framework LeSS？
+    ? "this is regulatory,\rpaolo. it’s never\rfinished or clear."
+    : "isto é regulatório，\rpaolo. Nunca está\rclaro ou finalizado"
+    ? "so this covers\rall the work right?"
+    : "isto abrange\rtodo o trabalho, certo？"
+    getting started: começando
+    ? "feature team\radoption map"
+    : "equipe de funcionalidade\rmapa de adoção"
+    adoption: adoção
+    continuous improvement: melhoria contínua
+    coaching: coaching
+    three principles: três princípios
+    ? "component\ra"
+    : "componente\ra"
+    ? "component\rb"
+    : "componente\rb"
+    ? "component\rc"
+    : "componente\rC"
+    ? "comp c\rteam"
+    : "comp c\requipe"
+    ? "comp b\rteam"
+    : "comp b\requipe"
+    "...": "..."
+    item 4: item 4
+    item 3: item 3
+    item 2: item 2
+    item 1: item 1
+    ? "comp a\rteam"
+    : "comp a\requipe"
+    ? team has the necessary knowledge and skills to complete an end-to-end customer-centric
+      feature. if not, the team is expected to learn or acquire the needed knowledge
+      and skill.
+    : Equipe tem os conhecimentos e as habilidades necessárias para concluir um processo de 
+      ponta-a-ponta em uma funcionalidade centrada no cliente. Caso contrário, espera-se 
+      que a equipe aprenda ou adquira o conhecimento e habilidade necessários.
+    feature team: equipe de funcionalidade
+    ? "cross-functional\rcross-component\rstable and long-lived"
+    : "multifuncional\rmulticomponente\restável e durável"
+    ? "potentially shippable\rproduct increment"
+    : "incremento de produto\rpotencialmente lançavel"
+    ? "customer\rcentric\rfeature"
+    : "funcionalidade\rfocada\rno cliente"
+    ? "ideal state!\rhard to achieve,\rgood to work towards"
+    : "estado ideal！\rdifícil de atingir，\rbom para trabalhar"
+    ? "feature\rteams"
+    : "equipes\rde funcionalidades"
+    ? "component\rteams"
+    : "equipes\rde componentes"
+    ? "functional\roverspecialization"
+    : "superespecialização\rfincional"
+    activity (function) inside the team. degree of cross-functionality: atividade (função) dentro da equipe. grau de multifuncionalidade
+    ? "extended component teams\rconflict in scope in the team\rleading to duplication
+      or\radditional coordination work"
+    : "equipes estendidas de componentes\rconflito no escopo da equipe\rlevando à duplicidade
+      ou\rtrabalho adicional de coordenação"
+    "+co-creation": "+cocriação"
+    ? "+analysis and\r  system test"
+    : "+análise\r teste do sistema"
+    ? "+design and\r  unit test"
+    : "+desing e\rteste unitário"
+    code: código
+    ? "+subsystem\rarchitecture\rand test"
+    : "+subsistema\rarquitetura\re teste"
+    nothing: nada
+    potential technology work scope inside the team: potencial escopo de trabalho tecnológico dentro da equipe
+    component: componente
+    subsystem: subsistema
+    whole product: todo o produto
+    whole system: todo o sistema
+    problem: problema
+    ? "would require involvement in\rstandardization oftelecom network"
+    : "exigiria envolvimento na\rpadronização da rede de telecomunicações"
+    ? "organizational constraint\ror scope of product group"
+    : "restrição organizacional\rou escopo do grupo de produto"
+    outside current organizational scope: fora do escopo organizacional atual
+    goal next few years: meta para os próximos anos
+    current state: status atual
+    ? "original teams\rbefore less adoption"
+    : "equipes originais\rantes da adoção do less"
+    "+standardization": "+padronização"
+    ? "+system design and\r system verification"
+    : "+design do sistema\r verificação do sistema"
+    ? "+specification and\r  entity integration test"
+    : "+especificação\r teste integrado da entidade"
+    ? "+sc design and\r sc test"
+    : "+SC design\r SC teste"
+    file/class: arquivo/classe
+    system component: componente do sistema
+    telecom network: rede de telecomunicações
+    ? "would require involvement in lots\rof other companies in the ecosysytem"
+    : "exigiria envolvimento em lotes\rde outras empresas no ecossistema"
+    ? "scope of\rproduct group"
+    : "escopo do\rgrupo de produto"
+    ? "+analysis\rand uat"
+    : "+análise\re uat"
+    subcomponent: subcomponente
+    application: aplicação
+    trading product: produto comercial
+    " feature teams": " equipes de funcionalidade"
+    wu team: equipe wu
+    shu team: equipe shu
+    wei team: equipe wei
+    component teams: equipes de componentes
+    ? "feature\rteam red"
+    : "equipe de funcionalidades\rvermelha"
+    ? "item 4\r\ttasks for a\r\ttasks for c"
+    : "item 4\r\ttarefas de a\r\ttarefas de c"
+    ? "item 3\r\ttasks for a\r\ttasks for b"
+    : "item 3\r\ttarefas de a\r\ttarefas de b"
+    ? "item 2\r\ttasks for a\r\ttasks for b"
+    : "item 2\r\ttarefas de a\r\ttarefas de b"
+    new requirements area: nova área de requisitos
+    ? "competence\r& coaching"
+    : "competência\re coaching"
+    ? "product owner\rteam"
+    : "equipe de\rproduct owner"
+    support: suporte
+    site: site
+    'team #n': 'equipe #n'
+    'team #2': 'equipe #2'
+    'team #1': 'equipe #1'
+    head of product: chefe do produto
+    head of product group: chefe do grupo de produto
+    feature teams: equipes de funcionalidades
+    ? "organizational\rstructure"
+    : "estrutura\rorganizacional"
+    ? "organizing\rby customer value"
+    : "organizando\rpelo valor do cliente"
+    structure: estrutura
+    teams: equipes
+    trade processing feature teams: equipes de funcionalidade de processamento de negociações
+    new-market onboarding feature teams: equipes de funcionalidades de novos mercados
+    ? "item 1\r...\r..."
+    : "item 1\r...\r..."
+    ? "trade processing\ritem 3\ritem 4\r...."
+    : "processamento de negociações\ritem 3\ritem 4\r...."
+    ? "new-market\ronboarding\ritem 1\ritem 2\r..."
+    : "novos mercados\ritem 1\ritem 2\r..."
+    area product owner: product owner de área
+    ? "analyst\rteams"
+    : "equipes\rde analistas"
+    specialization in customer dimension: especialização na dimensão do cliente
+    specialization in technology dimension: especialização na dimensão tecnológica
+    managers: gerentes
+    organization: organização
+    at gemba of value creation: na gemba da criação de valor”
+    at gemba of value consumption: na gemba do consumo de valor”
+    users: usários
+    ? "focus on\rcapability\rimprovement"
+    : "foco na\rmelhoria\rda capacidade"
+    value: valor
+    need: 需要
+    ? "product\rfocus"
+    : "foco\rno produto"
+    ? "organizational\rfocus"
+    : "foco\rorganizacional"
+    scrum master: ScrumMaster
+    ? "product vision\r& direction"
+    : "visão do produto\re direção"
+    ? "product creation\r& delivery"
+    : "criação do produto\re entrega"
+    ? "organizational\rcapability\rimprovement"
+    : "melhoria\rna capacidade\rorganizacional"
+    ? "product owner\r- provide vision and direction\r- prioritize features\r- understand
+      users and markets\r- support organizational\r  strategic direction\r\r"
+    : "product owner\r- provê visão e direcionamento\r- prioriza funcionalidades\r- entende usuários e o mercado\r- suporta a organização\r direciona estrategicamente\r\r"
+    ? "teams\r- create product\r- deliver product increment\r- coordinate and integrate\r-
+      improve product creation\r- clarify features\r- understand user and\r  domain,work
+      with them"
+    : "equipes\r- criam produto\r- entregam incrementos do produto\r- coordenam e integram\r- melhoram a criação do produto\r- esclarecem funcionalidades
+       \r- entendem o usuário e\r o negócio, trabalham com eles"
+    ? "managers\r- improve capability of\r   development system\r- decide structure
+      and policies"
+    : "gerentes\r- melhoram capacidade de\r desenvolver o sistema\r- decidem a estrutura e políticas"
+    ? "scrum master\r- coach organization\r- support continuous improvement"
+    : "ScrumMaster\r- fornece coach para a organização\r- suporta a melhoria contínua"
+    focus: foco
+    time: equipe
+    ? "development\rpractices"
+    : "práticas de\rdesenvolvimento"
+    ? "customers\r& users"
+    : "clientes\re usuários"
+    ? "higher\rmanagement"
+    : "alta\rgestão"
+    ? "customers\r/users"
+    : "clientes\r/usuários"
+    product development: desenvolvimento de produto
+    product development company: empresa de desenvolvimento de produto
+    ? "r&d/ engineering/\rdevelopment"
+    : "p&d"
+    ? "product management/\rmarketing/ business unit"
+    : "gerente de produto/\rmarketing/ unidade de negócio"
+    ? "technology/\rstandards features"
+    : "padrões tecnológicos/\rde funcionalidades"
+    ? "customer\rfeature\rrequests"
+    : "solicitações de\rrfuncionalidades de\rclientes"
+    customers/markets: clientes/mercados
+    h: g
+    ? "uge\ritem"
+    : "rande\ritem"
+    ? "a1\r...\r...\r..."
+    : "A1\r...\r...\r..."
+    huge: grande
+    '': ''
+    a3: A3
+    a2: A2
+    area: área
+    a1: A1
+    ? "item\r...\r...\r..."
+    : "item\r...\r...\r..."
+    item: item
+    items: itens
+    ? "area product\rowner"
+    : "product owner\rde área"
+    ? "area backlog\r“huge”"
+    : "\"grande\"\rbacklog de área"
+    ? "p #1\rbite #2\rbite #3\r\rmedium #1\rmedium #2\rmedium #3"
+    : "grande #1\rgrande #2\rgrande #3\rmédio #1\rmédio #2\rmédio #3"
+    updated area backlog: backlog de área atualizado
+    ? "start new team\rin area"
+    : "começar uma nova equipe\rde área"
+    ? "in product backlog\rrefinement"
+    : "no refinamento do\rproduct backlog"
+    ? "partial split\r& bite"
+    : "divisão parcial\re grande"
+    area backlog “huge”: “grande” backlog de área
+    ? "bite #1\rbite #2\rbite #3\rsmall #1\rsmall #2\rsmall #3\r\rmedium #3\rmedium
+      #4\rmedium #5"
+    : "grande #1\rgrande #2\rgrande #3\rpequeno #1\rpequeno #2\rpequeno #3\rmédio #3\rmédio #4\rmédio #5"
+    ? "up to 50%\rrefinement"
+    : "refinamento\raté 50%"
+    area backlog: backlog de área
+    done: pronto
+    sprints: sprints
+    ? "team #1 becomes\rleading team"
+    : "equipe #1 se torna\ra equipe líder"
+    ? "team #2 joins\rbacklog refinement\rto learn new area"
+    : "equipe #2 se junta\rao refinamento de backlog\rpara conhecer uma nova área"
+    ? "team #2\rjoins area"
+    : "equipe #2\rse une a área"
+    ? "start new\rteam in area"
+    : "uma nova equipe\rcomeça na área"
+    ? "take a bite\rto start"
+    : "Pega um item grande\rpara começar"
+    ? "partial splitting\rand taking a bite"
+    : "divisão parcial\re seleciona um item grande"
+    ? "less splitting\rof big feature"
+    : "divisão LeSS\rde uma grande funcionalidade"
+    ? "traditional splitting\rof big feature"
+    : "divisão tradicional\rde uma grande funcionalidade"
+    ? "all-at-once in equal\rpieces at the beginning"
+    : "tudo de uma vez em iguais\rpartes no começo"

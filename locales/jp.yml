@@ -1,0 +1,452 @@
+---
+jp:
+  fonts:
+    "MarkerFelt-Thin": "Tanuki-Permanent-Marker"
+    "MarkerFelt-Wide": "HiraginoSans-W7"
+  font_size: 0.7
+
+  all:
+    'potentially shippable ': '出荷可能 '
+    less framework: LeSSフレームワーク
+    underlined ones are the definition of done: 下線付きのものがDoneの定義
+    monkey: モンキー
+    system: システム
+    ? "user acceptance\racceptance"
+    : "ユーザーの受入\r受入"
+    ? "unit\rintegration"
+    : "ユニット\r結合"
+    ? "performance\rstability\rusability\rstress"
+    : "性能\r安定性\rユーザービリティ\rストレス"
+    smoke: スモーク
+    "+ test": "+ テスト"
+    ? "+ update marketing material\r"
+    : "+ マーケティング資料を更新する\r"
+    ? "+ static analysis\r+ integration\r+ packaging\r+ staging\r"
+    : "+ 静的解析\r+ 結合\r+ パッケージング\r+ ステージング\r"
+    ? "+ customer documentation\r"
+    : "+ 顧客ドキュメント\r"
+    ? "+ risk evaluation\r"
+    : "+ リスク評価\r"
+    ? "+ code\r"
+    : "+ コード\r"
+    ? "+ approval\r"
+    : "+ 承認\r"
+    ? "+ regulation\r"
+    : "+ 規定\r"
+    ? "+ prepare for customer feedback\r"
+    : "+ 顧客からのフィードバックに備える\r"
+    undone: undone
+    r1-20: R1-20
+    ? "product\rowner"
+    : "プロダクト\rオーナー"
+    now: 現在
+    r41-60: R41-60
+    r21-40: R21-40
+    ? "undone\rdepartment"
+    : "undone\r部門"
+    release: リリース
+    ? "i want\rto ship"
+    : "リリース\rしたい"
+    ? "release\rsprints"
+    : "リリース\rスプリント"
+    ? "risk and lack of transparency\rdelay and lack of flexibility"
+    : "リスクと透明性の欠如\r遅延と柔軟性の欠如"
+    less product backlog refinement: LeSSプロダクトバックログリファインメント
+    ? "multi-team product\rbacklog refinement"
+    : "マルチチーム プロダクト\rバックログリファインメント"
+    product backlog: "プロダクトバックログ"
+    ? "items selected\rfor refinement"
+    : "選択されたアイテム\rリファインメントのために"
+    5 - 10% sprint: スプリントの5〜10%
+    short-ish: 短め
+    ? "product\rbacklog\rrefinement"
+    : "プロダクト\rバックログ\rリファインメント"
+    ? "overall\rproduct\rbacklog\rrefinement"
+    : "オーバーオール\rプロダクト\rバックログ\rリファインメント"
+    product owner: プロダクトオーナー
+    ? "team or\rrepresentative(s)"
+    : "チーム または\r代表者"
+    ? "users\r& stakeholders"
+    : "ユーザー\r& ステークホルダー"
+    ? "mixed group\rfrom teams"
+    : "チームから選出した\r混合グループ"
+    team: チーム
+    less sprint planning: LeSS スプリントプランニング
+    ? "multi-team\rsprint planning 2"
+    : "マルチチーム\rスプリントプランニング 2"
+    sprint backlog: スプリントバックログ
+    selected items: 選択されたアイテム
+    ? "initial design \r& plan"
+    : "初期の設計\rと計画"
+    ? "selection & final\rclarification\rof items"
+    : "アイテムの選択\rと明確化"
+    ? "sprint\rplanning 2"
+    : "スプリント\rプランニング 2"
+    ? "sprint\rplanning 1"
+    : "スプリント\rプランニング 1"
+    ? "team or\rrepresentative(s) "
+    : "チーム または\r代表者"
+    component mentor: コンポーネントメンター
+    open space: オープンスペース
+    communities: コミュニティ
+    traveler: トラベラー
+    communicate in code: コードで会話する
+    just talk: とりあえず話す
+    scout: 偵察
+    less sprint review & retrospective: LeSS スプリントレビュー & レトロスペクティブ
+    ? "overall\rretrospective"
+    : "オーバーオール\rレトロスペクティブ"
+    ? "team\rretrospective"
+    : "チーム\rレトロスペクティブ"
+    ? "sprint\rreview"
+    : "スプリント\rレビュー"
+    team rep.: チーム代表者
+    scrummaster: スクラムマスター
+    manager: マネージャー
+    ? "area\rbacklog"
+    : "エリア\rバックログ"
+    ? "product\rbacklog"
+    : "プロダクト\rバックログ"
+    ? "potentially\rshippable\rproduct\rincrement"
+    : "出荷可能な\rプロダクト\r\r"
+    ? "next\rsprint"
+    : "次の\rスプリント"
+    overall retrospective: "オーバーオール レトロスペクティブ"
+    retrospective: レトロスペクティブ
+    sprint review: スプリントレビュー
+    ? "scrum master\r& feature team"
+    : "スクラムマスター\rフィーチャーチーム"
+    ? "sprint\rbacklog"
+    : "スプリント\rバックログ"
+    ? "previous\rsprint"
+    : "前の\rスプリント"
+    coordination: 調整
+    daily scrum: デイリースクラム
+    transparency: 透明性
+    ? "more\rwith less"
+    : "少なくする事で\rもっと多く"
+    ? "customer\rcentric"
+    : "顧客中心"
+    ? "whole\rproduct\rfocus"
+    : "プロダクト全体\r思考"
+    ? "large-scale\rscrum is scrum"
+    : "Large-Scale\rScrumはスクラムである"
+    ? "empirical\rprocess control"
+    : "経験的\rプロセス管理"
+    ? "continuous improvement\rtowards perfection"
+    : "完璧を目指しての\r継続的改善"
+    ? "lean\rthinking"
+    : "リーン\r思考"
+    ? "systems\rthinking"
+    : "システム\r思考"
+    queueing theory: 待ち行列理論
+    experiments: 実験
+    guide: ガイド
+    frameworks: フレームワーク
+    principles: 原則
+    ? "potentially shippable \rproduct increment"
+    : "出荷可能な製品\r"
+    ? "scrummaster\r& feature team"
+    : "スクラムマスター\r& フィーチャーチーム"
+    why less framework?: なぜLeSSなのか？
+    ? "this is regulatory,\rpaolo. it’s never\rfinished or clear."
+    : "これは調整なので\r全てが明確にはならないし\r終わりもないのよ"
+    ? "so this covers\rall the work right?"
+    : "ここに出てるのが\r作業としては全てなんだよね？"
+    getting started: 入門
+    ? "feature team\radoption map"
+    : "フィーチャーチーム\r導入マップ"
+    adoption: 導入
+    continuous improvement: 継続的改善
+    coaching: コーチング
+    three principles: 三つの原則
+    ? "component\ra"
+    : "コンポーネント\rA"
+    ? "component\rb"
+    : "コンポーネント\rB"
+    ? "component\rc"
+    : "コンポーネント\rC"
+    ? "comp c\rteam"
+    : "コンポーネント C\rチーム"
+    ? "comp b\rteam"
+    : "コンポーネント B\rチーム"
+    "...": "..."
+    item 4: アイテム 4
+    item 3: アイテム 3
+    item 2: アイテム 2
+    item 1: アイテム 1
+    ? "comp a\rteam"
+    : "コンポーネント A\rチーム"
+    ? team has the necessary knowledge and skills to complete an end-to-end customer-centric
+      feature. if not, the team is expected to learn or acquire the needed knowledge
+      and skill.
+    : チームは、エンドツーエンドの顧客中心のフィーチャーを完成させるために、必要な知識とスキルを持っています。
+      持っていないのであれば、必要な知識とスキルを習得したり、獲得したりすることが期待されます。
+    feature team: フィーチャーチーム
+    ? "cross-functional\rcross-component\rstable and long-lived"
+    : "クロスファンクショナル\rクロスコンポーネント\r長期的に安定"
+    ? "potentially shippable\rproduct increment"
+    : "出荷可能なプロダクト\r"
+    ? "customer\rcentric\rfeature"
+    : "顧客中心の\rフィーチャー"
+    ? "ideal state!\rhard to achieve,\rgood to work towards"
+    : "理想的な状態！\r達成するのは難しい"
+    ? "feature\rteams"
+    : "フィーチャー\rチーム"
+    ? "component\rteams"
+    : "コンポーネント\rチーム"
+    ? "functional\roverspecialization"
+    : "機能的\r過度の専門化"
+    activity (function) inside the team. degree of cross-functionality: チーム内の活動。クロスファンクショナル度
+    ? "extended component teams\rconflict in scope in the team\rleading to duplication
+      or\radditional coordination work"
+    : "拡張されたコンポーネントチーム\rではチームの作業範囲が競合し\r重複を生んだり、多くの調整が必要となる"
+    "+co-creation": "+共創"
+    ? "+analysis and\r  system test"
+    : "+分析と\rシステムテスト"
+    ? "+design and\r  unit test"
+    : "+設計と\rユニットテスト"
+    code: コード
+    ? "+subsystem\rarchitecture\rand test"
+    : "+サブシステム\rアーキテクチャー\rとテスト"
+    nothing: 何もない
+    potential technology work scope inside the team: チーム内の潜在的な技術的作業範囲
+    component: コンポーネント
+    subsystem: サブシステム
+    whole product: プロダクト全体
+    whole system: システム全体
+    problem: 問題
+    ? "would require involvement in\rstandardization oftelecom network"
+    : "テレコムネットワークの標準化に\r関与する必要がある"
+    ? "organizational constraint\ror scope of product group"
+    : "組織の制約または\rプロダクトグループの範囲"
+    outside current organizational scope: 現在の組織の範囲外
+    goal next few years: 次の数年間の目標
+    current state: 現在の状態
+    ? "original teams\rbefore less adoption"
+    : "LeSS導入前のチーム"
+    "+standardization": "+標準化"
+    ? "+system design and\r system verification"
+    : "+システム設計と\rシステム検証"
+    ? "+specification and\r  entity integration test"
+    : "+仕様とエンティティの\rインテグレーションテスト"
+    ? "+sc design and\r sc test"
+    : "+SCの設計と\rSCのテスト"
+    file/class: ファイル/クラス
+    system component: システムコンポーネント
+    telecom network: テレコムネットワーク
+    ? "would require involvement in lots\rof other companies in the ecosysytem"
+    : "他の沢山の企業エコシステム\rに関与する必要がある"
+    ? "scope of\rproduct group"
+    : "プロダクトグループの範囲"
+    ? "+analysis\rand uat"
+    : "+分析と\rユーザー受け入れテスト"
+    subcomponent: サブコンポーネント
+    application: アプリケーション
+    trading product: トレードに関するプロダクト
+    " feature teams": " フィーチャーチーム"
+    wu team: チーム 呉
+    shu team: チーム 蜀
+    wei team: チーム 魏
+    team wu: チーム 呉
+    team shu: チーム 蜀
+    team wei: チーム 魏
+    component teams: コンポーネントチーム
+    ? "feature\rteam red"
+    : "フィーチャー\rチーム RED"
+    ? "item 4\r\ttasks for a\r\ttasks for c"
+    : "アイテム 4\r\tタスク A\r\tタスク C"
+    ? "item 3\r\ttasks for a\r\ttasks for b"
+    : "アイテム 3\r\tタスク A\r\tタスク B"
+    ? "item 2\r\ttasks for a\r\ttasks for b"
+    : "アイテム 2\r\tタスク A\r\tタスク B"
+    new requirements area: 新しいリクワイアメントエリア
+    ? "competence\r& coaching"
+    : "能力\rコーチング"
+    ? "product owner\rteam"
+    : "プロダクトオーナー\rチーム"
+    ? "product\rowner team"
+    : "プロダクトオーナー\rチーム"
+    support: サポート
+    site: サイト
+    'team #n': 'チーム#n'
+    'team #2': 'チーム#2'
+    'team #1': 'チーム#1'
+    head of product: プロダクトの責任者
+    head of product group: プロダクトグループの責任者
+    feature teams: フィーチャーチーム
+    ? "organizational\rstructure"
+    : "組織\r構造"
+    ? "organizing\rby customer value"
+    : "顧客価値に基づいた\r組織"
+    structure: 構造
+    teams: チーム
+    trade processing feature teams: トレードのプロセスに関するフィーチャーチーム
+    new-market onboarding feature teams: 新たな市場を探求するフィーチャーチーム
+    ? "item 1\r...\r..."
+    : "アイテム 1\r...\r..."
+    ? "trade processing\ritem 3\ritem 4\r...."
+    : "トレードプロセス\rアイテム 3\rアイテム 4\r...."
+    ? "new-market\ronboarding\ritem 1\ritem 2\r..."
+    : "新たな市場\r探求\rアイテム 1\rアイテム 2\r..."
+    area product owner: エリアプロダクトオーナー
+    ? "analyst\rteams"
+    : "アナリスト\rチーム"
+    specialization in customer dimension: 顧客側面の専門化
+    specialization in technology dimension: 技術側面の専門化
+    managers: マネージャー
+    organization: 組織
+    at gemba of value creation: 価値創造の現場
+    at gemba of value consumption: 価値消費の現場
+    users: ユーザー
+    ? "focus on\rcapability\rimprovement"
+    : "能力改善に\rフォーカスする"
+    value: 価値
+    need: 要求
+    ? "product\rfocus"
+    : "プロダクトに\rフォーカスする"
+    ? "organizational\rfocus"
+    : "組織に\rフォーカスする"
+    scrum master: スクラムマスター
+    ? "product vision\r& direction"
+    : "プロダクトのビジョン\rと方向性"
+    ? "product creation\r& delivery"
+    : "プロダクトの作成\rとデリバリー"
+    ? "organizational\rcapability\rimprovement"
+    : "組織能力\r改善"
+    ? "product owner\r- provide vision and direction\r- prioritize features\r- understand
+      users and markets\r- support organizational\r  strategic direction\r\r"
+    : "プロダクトオーナー\r- ビジョンと方向性を提供する\r- フィーチャーの優先順位付け\r- ユーザーと市場を理解する\r- 組織の戦略的\r  方向性をサポートする\r\r"
+    ? "teams\r- create product\r- deliver product increment\r- coordinate and integrate\r-
+      improve product creation\r- clarify features\r- understand user and\r  domain,work
+      with them"
+    : "チーム\r- プロダクトを作る\r- プロダクトをデリバリーする\r- 協調と統合\r- プロダクトの作り方を改善する\r- フィーチャーを明確化する\r- ユーザーとドメインを\r  理解し協働する"
+    ? "managers\r- improve capability of\r   development system\r- decide structure
+      and policies"
+    : "マネージャー\r- 開発能力を\r   向上させる\r- 構造とポリシーを決定する"
+    ? "scrum master\r- coach organization\r- support continuous improvement"
+    : "スクラムマスター\r- 組織をコーチする\r- 継続的改善をサポートする"
+    focus: フォーカス
+    time: 時間
+    ? "development\rpractices"
+    : "開発\rプラクティス"
+    ? "customers\r& users"
+    : "顧客\r& ユーザー"
+    ? "higher\rmanagement"
+    : "上級\rマネジメント"
+    ? "customers\r/users"
+    : "顧客\r/ユーザー"
+    product development: プロダクト開発
+    product development company: プロダクト開発組織
+    ? "r&d/ engineering/\rdevelopment"
+    : "R&D/エンジニアリング\r開発"
+    ? "product management/\rmarketing/ business unit"
+    : "プロダクトマネジメント/\rマーケティング/ビジネス部門"
+    ? "technology/\rstandards features"
+    : "技術/\r標準的なフィーチャー"
+    ? "customer\rfeature\rrequests"
+    : "顧客\rからの\r要求"
+    customers/markets: 顧客／市場
+    h: H
+    ? "uge\ritem"
+    : "uge\rアイテム"
+    ? "a1\r...\r...\r..."
+    : "A1\r...\r...\r..."
+    huge: Huge
+    '': ''
+    a3: A3
+    a2: A2
+    area: エリア
+    a1: A1
+    ? "item\r...\r...\r..."
+    : "アイテム\r...\r...\r..."
+    item: アイテム
+    items: 複数のアイテム
+    ? "area product\rowner"
+    : "エリアプロダクト\rオーナー"
+    ? "area backlog\r“huge”"
+    : "エリアバックログ\r“Huge”"
+    ? "bite #1\rbite #2\rbite #3\r\rmedium #1\rmedium #2\rmedium #3"
+    : "極小 #1\r極小 #2\r極小 #3\r中くらい #1\r中くらい #2\r中くらい #3"
+    updated area backlog: 更新されたエリアバックログ
+    ? "start new team\rin area"
+    : "エリアで\r新しいチームがスタート"
+    ? "in product backlog\rrefinement"
+    : "プロダクトバックログ\rリファインメント内で"
+    ? "partial split\r& bite"
+    : "いくつかの塊に分割\r& 小さく"
+    area backlog “huge”: エリアバックログ "Huge"
+    ? "bite #1\rbite #2\rbite #3\rsmall #1\rsmall #2\rsmall #3\r\rmedium #3\rmedium
+      #4\rmedium #5"
+    : "極小 #1\r極小 #2\r極小 #3\r小さい #1\r小さい #2\r小さい #3\r\r中くらい #3\r中くらい #4\r中くらい #5"
+    ? "up to 50%\rrefinement"
+    : "最大50%\rリファインメント"
+    area backlog: エリアバックログ
+    done: done
+    sprints: スプリント
+    ? "team #1 becomes\rleading team"
+    : "チーム＃1が\rリーディングチームになる"
+    ? "team #2 joins\rbacklog refinement\rto learn new area"
+    : "チーム＃2が加わり\r新しいエリアを学ぶための\rバックログリファインメント"
+    ? "team #2\rjoins area"
+    : "チーム＃2\rエリアに入る"
+    ? "start new\rteam in area"
+    : "エリアで\r新しいチームがスタート"
+    ? "take a bite\rto start"
+    : "始めるために\r小さく分割する"
+    ? "partial splitting\rand taking a bite"
+    : "いくつかの塊に分割し\rそこから始める"
+    ? "less splitting\rof big feature"
+    : "LeSSでの大きなフィーチャー\rの分割方法"
+    ? "traditional splitting\rof big feature"
+    : "従来の大きなフィーチャー\rの分割方法"
+    ? "all-at-once in equal\rpieces at the beginning"
+    : "最初に\r等しく分割する"
+    ? "teaching problem\rsolving"
+    : "課題を伝える\r解決する"
+    self-management: 自律的な管理
+    go see: 現地現物
+    management: マネージメント
+    ? "improvement\rservice"
+    : "サービス\r改善"
+    ? "manager\ras scrummaster?"
+    : "マネージャー\rスクラムマスター?"
+    role of manager: マネージャーの役割
+    continuous delivery: 継続的デリバリー
+    clean code: クリーンコード
+    ? "architecture\r& design"
+    : "アーキテクチャ\rデザイン"
+    ? "technical\rexcellence"
+    : "優れた\rテクニカル"
+    unit testing: ユニットテスト
+    ? "acceptance\rtesting"
+    : "受入\rテスト"
+    specification by example: サンプルを用いた仕様
+    test automation: テストの自動化
+    thinking about testing: テストを検討する
+    test-driven development: テスト駆動開発
+    ? "continuous\rintegration"
+    : "継続的\rインテグレーション"
+    internal (product) development: 内製 (プロダクト) 開発
+    development/ technology/ it: 開発/ 技術/ IT
+    business: ビジネス
+    ? "feature\rpriority"
+    : "フィーチャー\r優先順位"
+    requests: 要求
+    ? "product owner/\rlead user"
+    : "プロダクトオーナー/\rリードユーザー"
+    project development: プロジェクト開発
+    ? "company receiving\rsystem/product"
+    : "発注会社\rシステム/プロダクト"
+    ? "development company\r/system integrator /outsourcer"
+    : "開発会社\r/SIer /アウトソーシング会社"
+    ? "requirement\rareas"
+    : "Requirement\rAreas"
+    ? "less huge"
+    : "LeSS Huge"
+    ? "role of\rmanagers"
+    : "Role Of\rManagers"
+    ? "continuous\rimprovement"
+    : "Continuous\rImprovement"
+    ? "less book chapter 2:\rintroduction"
+    : "LeSS Book Chapter 2:\rIntroduction"
