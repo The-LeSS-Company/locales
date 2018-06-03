@@ -60,9 +60,9 @@ zh-CN:
     5 - 10% sprint: 一个Sprint的5 - 10%
     short-ish: 较短
     ? "product\rbacklog\rrefinement"
-    : "产品代\r办事项列表\r梳理"
+    : "产品待\r办事项列表\r梳理"
     ? "overall\rproduct\rbacklog\rrefinement"
-    : "全体\r产品代\r办事项列表\r梳理"
+    : "全体\r产品待\r办事项列表\r梳理"
     product owner: 产品负责人
     ? "team or\rrepresentative(s)"
     : "团队或代表\r（可多人）"
