@@ -115,7 +115,7 @@ zh-CN:
     retrospective: 回顾会
     sprint review: Sprint评审
     ? "scrum master\r& feature team"
-    : "ScrumMaster\r和功能团队"
+    : "ScrumMaster\r和特性团队"
     ? "sprint\rbacklog"
     : "Sprint\r待办事项列表"
     ? "previous\rsprint"
@@ -147,7 +147,7 @@ zh-CN:
     ? "potentially shippable \rproduct increment"
     : "潜在可交运\r产品增量"
     ? "scrummaster\r& feature team"
-    : "ScrumMaster\r和功能团队"
+    : "ScrumMaster\r和特性团队"
     why less framework?: 为什么要用LeSS框架？
     ? "this is regulatory,\rpaolo. it’s never\rfinished or clear."
     : "这是规章类型的工作，\r保罗。它总是不完整\r或者不清楚的。"
@@ -155,7 +155,7 @@ zh-CN:
     : "这里包含了\r所有的工作，对吧？"
     getting started: 从这里开始
     ? "feature team\radoption map"
-    : "功能团队\r引入地图"
+    : "特性团队\r引入地图"
     adoption: 引入
     continuous improvement: 持续改进
     coaching: 教练
@@ -180,14 +180,14 @@ zh-CN:
     ? team has the necessary knowledge and skills to complete an end-to-end customer-centric
       feature. if not, the team is expected to learn or acquire the needed knowledge
       and skill.
-    : 团队具有完成端到端以用户为中心的功能的必需知识和技能。如果没有，团队应当去学习以获得这些必需的知识和技能。
-    feature team: 功能团队
+    : 团队具有完成端到端以用户为中心的特性的必需知识和技能。如果没有，团队应当去学习以获得这些必需的知识和技能。
+    feature team: 特性团队
     ? "cross-functional\rcross-component\rstable and long-lived"
     : "跨职能\r跨组件\r稳定和长期的"
     ? "potentially shippable\rproduct increment"
     : "潜在可交运\r产品增量"
     ? "customer\rcentric\rfeature"
-    : "以用户\r为中心的\r功能"
+    : "以用户\r为中心的\r特性"
     ? "ideal state!\rhard to achieve,\rgood to work towards"
     : "理想状态！\r很难达到，\r是很好的工作目标"
     ? "feature\rteams"
@@ -243,13 +243,13 @@ zh-CN:
     subcomponent: 子组件
     application: 应用程序
     trading product: 交易产品
-    " feature teams": " 多个功能团队"
+    " feature teams": " 多个特性团队"
     wu team: 团队吴
     shu team: 团队蜀
     wei team: 团队魏
     component teams: 多个组件团队
     ? "feature\rteam red"
-    : "功能团队\r红队"
+    : "特性团队\r红队"
     ? "item 4\r\ttasks for a\r\ttasks for c"
     : "条目4\r\t涉及到A的任务\r\t涉及到C的任务"
     ? "item 3\r\ttasks for a\r\ttasks for b"
@@ -268,15 +268,15 @@ zh-CN:
     'team #1': '团队#1'
     head of product: 产品领导
     head of product group: 产品组领导
-    feature teams: 多个功能团队
+    feature teams: 多个特性团队
     ? "organizational\rstructure"
     : "组织\r结构"
     ? "organizing\rby customer value"
     : "依客户价值\r来组织"
     structure: 结构
     teams: 团队们
-    trade processing feature teams: 交易处理功能团队们
-    new-market onboarding feature teams: 新兴市场开展功能团队
+    trade processing feature teams: 交易处理特性团队们
+    new-market onboarding feature teams: 新兴市场开展特性团队
     ? "item 1\r...\r..."
     : "条目 1\r...\r..."
     ? "trade processing\ritem 3\ritem 4\r...."
@@ -310,11 +310,11 @@ zh-CN:
     : "组织上的\r能力\r改进"
     ? "product owner\r- provide vision and direction\r- prioritize features\r- understand
       users and markets\r- support organizational\r  strategic direction\r\r"
-    : "产品负责人\r- 提供愿景和方向\r- 为功能排优先级\r- 理解用户和市场\r- 对组织提供\r  战略方向支持\r\r"
+    : "产品负责人\r- 提供愿景和方向\r- 为特性排优先级\r- 理解用户和市场\r- 对组织提供\r  战略方向支持\r\r"
     ? "teams\r- create product\r- deliver product increment\r- coordinate and integrate\r-
       improve product creation\r- clarify features\r- understand user and\r  domain,work
       with them"
-    : "团队\r- 创造产品\r- 交付产品增量\r- 协调及集成\r- 改进产品生产\r- 澄清功能\r- 理解用户和领域，\r  并与他们一起工作"
+    : "团队\r- 创造产品\r- 交付产品增量\r- 协调及集成\r- 改进产品生产\r- 澄清特性\r- 理解用户和领域，\r  并与他们一起工作"
     ? "managers\r- improve capability of\r   development system\r- decide structure
       and policies"
     : "经理\r- 改进研发体系\r   的能力\r- 为组织结构和政策做决定"
@@ -337,9 +337,9 @@ zh-CN:
     ? "product management/\rmarketing/ business unit"
     : "产品管理/\r市场/商务部门"
     ? "technology/\rstandards features"
-    : "技术/\r标准功能"
+    : "技术/\r标准特性"
     ? "customer\rfeature\rrequests"
-    : "客户\r功能\r请求"
+    : "客户\r特性\r请求"
     customers/markets: 客户/市场
     h: 巨
     ? "uge\ritem"
@@ -391,9 +391,9 @@ zh-CN:
     ? "partial splitting\rand taking a bite"
     : "部分拆分\r和“咬一口”"
     ? "less splitting\rof big feature"
-    : "LeSS中大块功能\r的拆分"
+    : "LeSS中大块特性\r的拆分"
     ? "traditional splitting\rof big feature"
-    : "大块功能的\r传统拆分方法"
+    : "大块特性的\r传统拆分方法"
     ? "all-at-once in equal\rpieces at the beginning"
     : "在一开始就一下子\r拆成均等的小块"
     ? "teaching problem\rsolving"
