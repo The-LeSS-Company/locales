@@ -1,5 +1,10 @@
 ---
-en:
+ru:
+  fonts:
+    "MarkerFelt-Thin": "MarkerFelt-Thin"
+    "MarkerFelt-Wide": "MarkerFelt-Wide"
+  font_size: 0.85
+
   all:
     'potentially shippable ': 'потенциально готовый к поставке '
     underlined ones are the definition of done: Подчеркнутые это Критерии готовности
@@ -22,7 +27,7 @@ en:
     ? "+ risk evaluation\r"
     : "+ risk evaluation\r"
     ? "+ code\r"
-    : "+ code\r"
+    : "+ код\r"
     ? "+ approval\r"
     : "+ approval\r"
     ? "+ regulation\r"
@@ -32,7 +37,7 @@ en:
     undone: несделанная
     r1-20: r1-20
     ? "product\rowner"
-    : "product\rowner"
+    : "Владелец\rПродукта"
     now: сейчас
     r41-60: r41-60
     r21-40: r21-40
@@ -42,67 +47,67 @@ en:
     ? "i want\rto ship"
     : "i want\rto ship"
     ? "release\rsprints"
-    : "release\rsprints"
+    : "релизные\rспринты"
     ? "risk and lack of transparency\rdelay and lack of flexibility"
     : "Risk and Lack of Transparency\rDelay and Lack of Flexibility"
-    less product backlog refinement: Less уточнение бэклога продукта
+    less product backlog refinement: LeSS уточнение бэклога продукта
     ? "multi-team product\rbacklog refinement"
-    : "multi-team product\rbacklog refinement"
-    product backlog: бэклог продукта
+    : "Многокомандное уточнение\rБэклога Продукта"
+    product backlog: Бэклог Продукта
     ? "items selected\rfor refinement"
-    : "items selected\rfor refinement"
+    : "элементы выбранные\rдля уточнения"
     5 - 10% sprint: 5 - 10% спринт
     short-ish: короткий
     ? "product\rbacklog\rrefinement"
-    : "Product\rBacklog\rRefinement"
+    : "Уточнение\rБэклога\rПродукта"
     ? "overall\rproduct\rbacklog\rrefinement"
-    : "overall\rproduct\rbacklog\rrefinement"
-    product owner: владелец продукта
+    : "Общее\rУточнение\rБэклога\rПродукта"
+    product owner: Владелец Продукта
     ? "team or\rrepresentative(s)"
-    : "team or\rrepresentative(s)"
+    : "команда или\rпредставитель(ли)"
     ? "users\r& stakeholders"
-    : "users\r& stakeholders"
+    : "пользователи\r& заинтересованные лица"
     ? "mixed group\rfrom teams"
     : "mixed group\rfrom teams"
     team: команда
-    less sprint planning: Less планирование спринта
+    less sprint planning: LeSS планирование спринта
     ? "multi-team\rsprint planning 2"
-    : "multi-team\rsprint planning 2"
+    : "Многокомандное\rпланирование спринта 2"
     sprint backlog: бэклог спринта
     selected items: Выбранные элементы
     ? "initial design \r& plan"
     : "INITIAL DESIGN \r& PLAN"
     ? "selection & final\rclarification\rof items"
-    : "SELECTion & final\rclarification\rof ITEMS"
+    : "выбор & окончательное\rуточнение\rэлементов"
     ? "sprint\rplanning 2"
-    : "Sprint\rPlanning 2"
+    : "планирование\rспринта 2"
     ? "sprint\rplanning 1"
-    : "Sprint\rPlanning 1"
+    : "планирование\rспринта 1"
     ? "team or\rrepresentative(s) "
-    : "team or\rrepresentative(s) "
+    : "команда или\rпредставитель(ли)"
     component mentor: компонентный ментор
     open space: открытое пространство
-    communities: СООБЩЕСТВА
+    communities: сообщества
     traveler: путешественник
     communicate in code: коммуникации в коде
     just talk: просто поговорить
     scout: скаут
-    less sprint review & retrospective: less обзор спринта & ретроспектива
+    less sprint review & retrospective: LeSS обзор спринта & ретроспектива
     ? "overall\rretrospective"
-    : "overall\rretrospective"
+    : "общая\rретроспектива"
     ? "team\rretrospective"
-    : "team\rretrospective"
+    : "командная\rретроспектива"
     ? "sprint\rreview"
-    : "sprint\rreview"
-    team rep.: командные представители.
-    scrummaster: СКРАМ-МАСТЕР
+    : "обзор\rспринта"
+    team rep.: командные представители
+    scrummaster: Скрам-мастер
     manager: менеджер
     ? "area\rbacklog"
-    : "area\rbacklog"
+    : "Бэклог\rОбласти"
     ? "product\rbacklog"
-    : "product\rbacklog"
+    : "Бэклог\rПродукта"
     ? "potentially\rshippable\rproduct\rincrement"
-    : "potentially\rshippable\rproduct\rincrement"
+    : "потенциально\rготовый к поставке\rинкремент продукта"
     ? "next\rsprint"
     : "next\rsprint"
     overall retrospective: общая Ретроспектива
@@ -133,9 +138,9 @@ en:
     : "LEAN\rTHINKING"
     ? "systems\rthinking"
     : "SYSTEMS\rTHINKING"
-    queueing theory: ТЕОРИЯ ОЧЕРЕДЕЙ
+    queueing theory: Теория Очередей
     experiments: Эксперименты
-    guide: Гайд
+    guide: Руководство
     frameworks: Фреймворки
     principles: Принципы
     ? "potentially shippable \rproduct increment"
@@ -246,9 +251,9 @@ en:
     wu team: wu команда
     shu team: shu команда
     wei team: wei команда
-    team wu: Команда wu
-    team shu: Команда shu
-    team wei: Команда wei
+    team wu: команда wu
+    team shu: команда shu
+    team wei: команда wei
     component teams: компонентная команда
     ? "feature\rteam red"
     : "feature\rteam red"
@@ -262,7 +267,7 @@ en:
     ? "competence\r& coaching"
     : "competence\r& coaching"
     ? "product owner\rteam"
-    : "product owner\rteam"
+    : "команда\rвладельца продукта"
     support: поддержка
     site: сайт
     'team #n': 'команда #n'
@@ -270,40 +275,40 @@ en:
     'team #1': 'команда #1'
     head of product: руководитель продукта
     head of product group: руководитель продуктовой группы
-    feature teams: ФИЧЕ КОМАНДА
+    feature teams: Фиче Команда
     ? "organizational\rstructure"
-    : "ORGANIZATIONAL\rSTRUCTURE"
+    : "организационная\rструктура"
     ? "organizing\rby customer value"
     : "ORGANIZING\rBY CUSTOMER VALUE"
-    structure: СТРУКТУРА
-    teams: КОМАНДЫ
+    structure: Структура
+    teams: КомандЫ
     trade processing feature teams: торговые фиче команды
     new-market onboarding feature teams: фиче команды для новых рынков
     ? "item 1\r...\r..."
-    : "item 1\r...\r..."
+    : "элемент 1\r...\r..."
     ? "trade processing\ritem 3\ritem 4\r...."
-    : "Trade processing\ritem 3\ritem 4\r...."
+    : "Торговля\rэлемент 3\rэлемент 4\r...."
     ? "new-market\ronboarding\ritem 1\ritem 2\r..."
-    : "New-market\ronboarding\ritem 1\ritem 2\r..."
+    : "Новый рынок\ronboarding\rэлемент 1\rэлемент 2\r..."
     area product owner: владелец области продукта
     ? "analyst\rteams"
-    : "analyst\rteams"
+    : "команды\rаналитиков"
     specialization in customer dimension: специализация по размеру клиента
     specialization in technology dimension: специализация по технологии
     managers: менеджеры
-    organization: Организация
+    organization: организация
     at gemba of value creation: точка создания ценности
     at gemba of value consumption: точка потребления ценности
     users: пользователи
     ? "focus on\rcapability\rimprovement"
     : "focus on\rcapability\rimprovement"
-    value: value
+    value: ценность
     need: необходимость
     ? "product\rfocus"
-    : "product\rfocus"
+    : "продуктовый\rфокус"
     ? "organizational\rfocus"
-    : "organizational\rfocus"
-    scrum master: скрам мастер
+    : "организационный\rфокус"
+    scrum master: скрам-мастер
     ? "product vision\r& direction"
     : "product vision\r& direction"
     ? "product creation\r& delivery"
@@ -335,7 +340,7 @@ en:
     ? "higher\rmanagement"
     : "HIGHER\rMANAGEMENT"
     ? "customers\r/users"
-    : "CUSTOMERS\r/users"
+    : "заказчики\r/пользователи"
     product development: продуктовая разработка
     product development company: Компания разработчик продукта
     ? "r&d/ engineering/\rdevelopment"
@@ -375,25 +380,23 @@ en:
     item: элемент
     items: элементы
     ? "area product\rowner"
-    : "area product\rowner"
+    : "владелец\rобласти продукта"
     ? "area backlog\r“huge”"
-    : "area backlog\r“huge”"
+    : "бэклог области\r“огромный”"
     ? "bite #1\rbite #2\rbite #3\r\rmedium #1\rmedium #2\rmedium #3"
-    : "bite #1\rbite #2\rbite #3\r\rmedium #1\rmedium #2\rmedium #3"
+    : "кусок #1\rкусок #2\rкусок #3\rсредний #1\rсредний #2\rсредний #3"
     updated area backlog: пополнение бэклога области
     ? "start new team\rin area"
-    : "start new team\rin area"
+    : "новая команда\rв области"
     ? "in product backlog\rrefinement"
-    : "in product backlog\rrefinement"
+    : "в уточнении\rбэклога продукта"
     ? "partial split\r& bite"
-    : "partial split\r& bite"
+    : "частичное разделение\r& кусок"
     area backlog “huge”: бэклог области “огромный”
-    ? "bite #1\rbite #2\rbite #3\rsmall #1\rsmall #2\rsmall #3\r\rmedium #3\rmedium
-      #4\rmedium #5"
-    : "bite #1\rbite #2\rbite #3\rsmall #1\rsmall #2\rsmall #3\r\rmedium #3\rmedium
-      #4\rmedium #5"
+    ? "bite #1\rbite #2\rbite #3\rsmall #1\rsmall #2\rsmall #3\r\rmedium #3\rmedium #4\rmedium #5"
+    : "кусок #1\rкусок #2\rкусок #3\rмалый #1\rмалый #2\rмалый #3\rсредний #3\rсредний #4\rсредний #5"
     ? "up to 50%\rrefinement"
-    : "up to 50%\rrefinement"
+    : "уточнение\rдо 50%"
     area backlog: бэклог области
     done: готово
     sprints: спринты
@@ -418,28 +421,28 @@ en:
     ? "teaching problem\rsolving"
     : "TEACHING PROBLEM\rSOLVING"
     self-management: само-организованная
-    go see: ПОЙДИ ПОСМОТРИ
-    management: МЕНЕДЖМЕНТ
+    go see: Пойди Посмотри
+    management: Менеджмент
     ? "improvement\rservice"
     : "IMPROVEMENT\rSERVICE"
     ? "manager\ras scrummaster?"
     : "MANAGER\rAS SCRUMMASTER?"
-    role of manager: РОЛИ МЕНЕДЖЕРА
-    continuous delivery: НЕПРЕРЫВНАЯ ДОСТАВКА
-    clean code: ЧИСТЫЙ КОД
+    role of manager: Роли Менеджера
+    continuous delivery: Непрерывная Доставка
+    clean code: Чистый код
     ? "architecture\r& design"
-    : "ARCHITECTURE\r& DESIGN"
+    : "архитектура\r& дизайн"
     ? "technical\rexcellence"
     : "TECHNICAL\rEXCELLENCE"
-    unit testing: ЮНИТ ТЕСТИРОВАНИЕ
+    unit testing: Юнит Тестирование
     ? "acceptance\rtesting"
     : "ACCEPTANCE\rTESTING"
-    specification by example: СПЕЦИФИКАЦИИ ПО ПРИМЕРУ
-    test automation: АВТОМАТИЗАЦИЯ ТЕСТИРОВАНИЯ
+    specification by example: Спецификация по примеру
+    test automation: Автоматизация тестирования
     thinking about testing: ДУМАТЬ О ТЕСТИРОВАНИИ
-    test-driven development: РАЗРАБОТКА НА ОСНОВЕ ТЕСТОВ
+    test-driven development: Разработка через тестирование
     ? "continuous\rintegration"
-    : "CONTINUOUS\rINTEGRATION"
+    : "Непрерывная\rинтеграция"
   chapters:
     img/framework/definition-of-done: {}
     img/framework/undone-work/growing-1: {}
