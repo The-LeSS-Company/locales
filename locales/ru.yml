@@ -1,0 +1,503 @@
+---
+en:
+  all:
+    'potentially shippable ': 'потенциально готовый к поставке '
+    underlined ones are the definition of done: Подчеркнутые это Критерии готовности
+    monkey: обезьяний
+    system: система
+    ? "user acceptance\racceptance"
+    : "User Acceptance\racceptance"
+    ? "unit\rintegration"
+    : "unit\rintegration"
+    ? "performance\rstability\rusability\rstress"
+    : "performance\rstability\rusability\rstress"
+    smoke: дымный
+    "+ test": "+ тест"
+    ? "+ update marketing material\r"
+    : "+ Update Marketing Material\r"
+    ? "+ static analysis\r+ integration\r+ packaging\r+ staging\r"
+    : "+ static analysis\r+ integration\r+ packaging\r+ staging\r"
+    ? "+ customer documentation\r"
+    : "+ Customer Documentation\r"
+    ? "+ risk evaluation\r"
+    : "+ risk evaluation\r"
+    ? "+ code\r"
+    : "+ code\r"
+    ? "+ approval\r"
+    : "+ approval\r"
+    ? "+ regulation\r"
+    : "+ regulation\r"
+    ? "+ prepare for customer feedback\r"
+    : "+ Prepare for Customer Feedback\r"
+    undone: несделанная
+    r1-20: r1-20
+    ? "product\rowner"
+    : "product\rowner"
+    now: сейчас
+    r41-60: r41-60
+    r21-40: r21-40
+    ? "undone\rdepartment"
+    : "undone\rdepartment"
+    release: релиз
+    ? "i want\rto ship"
+    : "i want\rto ship"
+    ? "release\rsprints"
+    : "release\rsprints"
+    ? "risk and lack of transparency\rdelay and lack of flexibility"
+    : "Risk and Lack of Transparency\rDelay and Lack of Flexibility"
+    less product backlog refinement: Less уточнение бэклога продукта
+    ? "multi-team product\rbacklog refinement"
+    : "multi-team product\rbacklog refinement"
+    product backlog: бэклог продукта
+    ? "items selected\rfor refinement"
+    : "items selected\rfor refinement"
+    5 - 10% sprint: 5 - 10% спринт
+    short-ish: короткий
+    ? "product\rbacklog\rrefinement"
+    : "Product\rBacklog\rRefinement"
+    ? "overall\rproduct\rbacklog\rrefinement"
+    : "overall\rproduct\rbacklog\rrefinement"
+    product owner: владелец продукта
+    ? "team or\rrepresentative(s)"
+    : "team or\rrepresentative(s)"
+    ? "users\r& stakeholders"
+    : "users\r& stakeholders"
+    ? "mixed group\rfrom teams"
+    : "mixed group\rfrom teams"
+    team: команда
+    less sprint planning: Less планирование спринта
+    ? "multi-team\rsprint planning 2"
+    : "multi-team\rsprint planning 2"
+    sprint backlog: бэклог спринта
+    selected items: Выбранные элементы
+    ? "initial design \r& plan"
+    : "INITIAL DESIGN \r& PLAN"
+    ? "selection & final\rclarification\rof items"
+    : "SELECTion & final\rclarification\rof ITEMS"
+    ? "sprint\rplanning 2"
+    : "Sprint\rPlanning 2"
+    ? "sprint\rplanning 1"
+    : "Sprint\rPlanning 1"
+    ? "team or\rrepresentative(s) "
+    : "team or\rrepresentative(s) "
+    component mentor: компонентный ментор
+    open space: открытое пространство
+    communities: СООБЩЕСТВА
+    traveler: путешественник
+    communicate in code: коммуникации в коде
+    just talk: просто поговорить
+    scout: скаут
+    less sprint review & retrospective: less обзор спринта & ретроспектива
+    ? "overall\rretrospective"
+    : "overall\rretrospective"
+    ? "team\rretrospective"
+    : "team\rretrospective"
+    ? "sprint\rreview"
+    : "sprint\rreview"
+    team rep.: командные представители.
+    scrummaster: СКРАМ-МАСТЕР
+    manager: менеджер
+    ? "area\rbacklog"
+    : "area\rbacklog"
+    ? "product\rbacklog"
+    : "product\rbacklog"
+    ? "potentially\rshippable\rproduct\rincrement"
+    : "potentially\rshippable\rproduct\rincrement"
+    ? "next\rsprint"
+    : "next\rsprint"
+    overall retrospective: общая Ретроспектива
+    retrospective: Ретроспектива
+    sprint review: Обзор Спринта
+    ? "scrum master\r& feature team"
+    : "scrum master\r& feature team"
+    ? "sprint\rbacklog"
+    : "Sprint\rBacklog"
+    ? "previous\rsprint"
+    : "previous\rsprint"
+    coordination: Координация
+    daily scrum: Ежедневный Скрам
+    transparency: ПРОЗРАЧНОСТЬ
+    ? "more\rwith less"
+    : "MORE\rWITH LESS"
+    ? "customer\rcentric"
+    : "CUSTOMER\rCENTRIC"
+    ? "whole\rproduct\rfocus"
+    : "WHOLE\rPRODUCT\rFOCUS"
+    ? "large-scale\rscrum is scrum"
+    : "LARGE-SCALE\rSCRUM IS SCRUM"
+    ? "empirical\rprocess control"
+    : "EMPIRICAL\rPROCESS CONTROL"
+    ? "continuous improvement\rtowards perfection"
+    : "CONTINUOUS IMPROVEMENT\rTOWARDS PERFECTION"
+    ? "lean\rthinking"
+    : "LEAN\rTHINKING"
+    ? "systems\rthinking"
+    : "SYSTEMS\rTHINKING"
+    queueing theory: ТЕОРИЯ ОЧЕРЕДЕЙ
+    experiments: Эксперименты
+    guide: Гайд
+    frameworks: Фреймворки
+    principles: Принципы
+    ? "potentially shippable \rproduct increment"
+    : "Potentially Shippable \rProduct Increment"
+    ? "scrummaster\r& feature team"
+    : "scrummaster\r& Feature Team"
+    less framework: LeSS Фреймворк
+    why less framework?: Почему LeSS?
+    ? "this is regulatory,\rpaolo. it’s never\rfinished or clear."
+    : "This is regulatory,\rPaolo. It’s never\rfinished or clear."
+    ? "so this covers\rall the work right?"
+    : "So this covers\rall the work right?"
+    getting started: НАЧАЛО РАБОТЫ
+    ? "feature team\radoption map"
+    : "FEATURE TEAM\rADOPTION MAP"
+    adoption: ВНЕДРЕНИЕ
+    continuous improvement: ПОСТОЯННОЕ УЛУЧШЕНИЕ
+    coaching: КОУЧИНГ
+    three principles: ТРИ ПРИНЦИПА
+    ? "component\ra"
+    : "component\ra"
+    ? "component\rb"
+    : "component\rb"
+    ? "component\rc"
+    : "component\rC"
+    ? "comp c\rteam"
+    : "comp c\rteam"
+    ? "comp b\rteam"
+    : "comp B\rteam"
+    "...": "..."
+    item 4: элемент 4
+    item 3: элемент 3
+    item 2: элемент 2
+    item 1: элемент 1
+    ? "comp a\rteam"
+    : "comp a\rteam"
+    ? team has the necessary knowledge and skills to complete an end-to-end customer-centric
+      feature. if not, the team is expected to learn or acquire the needed knowledge
+      and skill.
+    : team has the necessary knowledge and skills to complete an end-to-end customer-centric
+      feature. if not, the team is expected to learn or acquire the needed knowledge
+      and skill.
+    feature team: фиче команда
+    ? "cross-functional\rcross-component\rstable and long-lived"
+    : "cross-functional\rcross-component\rstable and long-lived"
+    ? "potentially shippable\rproduct increment"
+    : "potentially shippable\rproduct increment"
+    ? "customer\rcentric\rfeature"
+    : "customer\rcentric\rfeature"
+    ? "ideal state!\rhard to achieve,\rgood to work towards"
+    : "ideal state!\rhard to achieve,\rgood to work towards"
+    ? "feature\rteams"
+    : "feature\rteams"
+    ? "component\rteams"
+    : "component\rteams"
+    ? "functional\roverspecialization"
+    : "functional\roverspecialiZation"
+    activity (function) inside the team. degree of cross-functionality: активность (функция)
+      inside the team. degree of cross-functionality
+    ? "extended component teams\rconflict in scope in the team\rleading to duplication
+      or\radditional coordination work"
+    : "extended component teams\rconflict in scope in the team\rleading to duplication
+      or\radditional coordination work"
+    "+co-creation": "+совместное создание"
+    ? "+analysis and\r  system test"
+    : "+analysis and\r  system test"
+    ? "+design and\r  unit test"
+    : "+design and\r  unit test"
+    code: код
+    ? "+subsystem\rarchitecture\rand test"
+    : "+subsystem\rarchitecture\rand Test"
+    nothing: ничего
+    potential technology work scope inside the team: потенциальный объем технологических работ внутри команды
+    component: компонента
+    subsystem: подсистема
+    whole product: весь продукт
+    whole system: вся система
+    problem: проблема
+    ? "would require involvement in\rstandardization oftelecom network"
+    : "would require involvement in\rstandardization oftelecom network"
+    ? "organizational constraint\ror scope of product group"
+    : "organizational constraint\ror scope of product group"
+    outside current organizational scope: вне рамок нынешней организации
+    goal next few years: цель следующих нескольких  лет
+    current state: текущее состояние
+    ? "original teams\rbefore less adoption"
+    : "original teams\rbefore less adoption"
+    "+standardization": "+стандартизация"
+    ? "+system design and\r system verification"
+    : "+system design and\r system verification"
+    ? "+specification and\r  entity integration test"
+    : "+specification and\r  entity integration test"
+    ? "+sc design and\r sc test"
+    : "+sc design and\r sc test"
+    file/class: файл/класс
+    system component: системная компонента
+    telecom network: телекоммуникационная сеть
+    ? "would require involvement in lots\rof other companies in the ecosysytem"
+    : "would require involvement in lots\rof other companies in the ecosysytem"
+    ? "scope of\rproduct group"
+    : "scope of\rproduct group"
+    ? "+analysis\rand uat"
+    : "+analysis\rand uat"
+    subcomponent: субкомпонента
+    application: приложение
+    trading product: торговый продукт
+    " feature teams": " фиче команда"
+    wu team: wu команда
+    shu team: shu команда
+    wei team: wei команда
+    team wu: Команда wu
+    team shu: Команда shu
+    team wei: Команда wei
+    component teams: компонентная команда
+    ? "feature\rteam red"
+    : "feature\rteam red"
+    ? "item 4\r\ttasks for a\r\ttasks for c"
+    : "item 4\r\ttasks for a\r\ttasks for c"
+    ? "item 3\r\ttasks for a\r\ttasks for b"
+    : "item 3\r\ttasks for a\r\ttasks for b"
+    ? "item 2\r\ttasks for a\r\ttasks for b"
+    : "item 2\r\ttasks for a\r\ttasks for b"
+    new requirements area: новая область требований
+    ? "competence\r& coaching"
+    : "competence\r& coaching"
+    ? "product owner\rteam"
+    : "product owner\rteam"
+    support: поддержка
+    site: сайт
+    'team #n': 'команда #n'
+    'team #2': 'команда #2'
+    'team #1': 'команда #1'
+    head of product: руководитель продукта
+    head of product group: руководитель продуктовой группы
+    feature teams: ФИЧЕ КОМАНДА
+    ? "organizational\rstructure"
+    : "ORGANIZATIONAL\rSTRUCTURE"
+    ? "organizing\rby customer value"
+    : "ORGANIZING\rBY CUSTOMER VALUE"
+    structure: СТРУКТУРА
+    teams: КОМАНДЫ
+    trade processing feature teams: торговые фиче команды
+    new-market onboarding feature teams: фиче команды для новых рынков
+    ? "item 1\r...\r..."
+    : "item 1\r...\r..."
+    ? "trade processing\ritem 3\ritem 4\r...."
+    : "Trade processing\ritem 3\ritem 4\r...."
+    ? "new-market\ronboarding\ritem 1\ritem 2\r..."
+    : "New-market\ronboarding\ritem 1\ritem 2\r..."
+    area product owner: владелец области продукта
+    ? "analyst\rteams"
+    : "analyst\rteams"
+    specialization in customer dimension: специализация по размеру клиента
+    specialization in technology dimension: специализация по технологии
+    managers: менеджеры
+    organization: Организация
+    at gemba of value creation: точка создания ценности
+    at gemba of value consumption: точка потребления ценности
+    users: пользователи
+    ? "focus on\rcapability\rimprovement"
+    : "focus on\rcapability\rimprovement"
+    value: value
+    need: необходимость
+    ? "product\rfocus"
+    : "product\rfocus"
+    ? "organizational\rfocus"
+    : "organizational\rfocus"
+    scrum master: скрам мастер
+    ? "product vision\r& direction"
+    : "product vision\r& direction"
+    ? "product creation\r& delivery"
+    : "product creation\r& delivery"
+    ? "organizational\rcapability\rimprovement"
+    : "organiZational\rcapability\rimprovement"
+    ? "product owner\r- provide vision and direction\r- prioritize features\r- understand
+      users and markets\r- support organizational\r  strategic direction\r\r"
+    : "product owner\r- Provide Vision and Direction\r- Prioritize Features\r- Understand
+      Users and Markets\r- Support Organizational\r  Strategic Direction\r\r"
+    ? "teams\r- create product\r- deliver product increment\r- coordinate and integrate\r-
+      improve product creation\r- clarify features\r- understand user and\r  domain,work
+      with them"
+    : "teams\r- Create Product\r- Deliver Product Increment\r- Coordinate and Integrate\r-
+      Improve Product Creation\r- clarify features\r- Understand User and\r  Domain,Work
+      with Them"
+    ? "managers\r- improve capability of\r   development system\r- decide structure
+      and policies"
+    : "managers\r- Improve Capability of\r   Development System\r- Decide Structure
+      and Policies"
+    ? "scrum master\r- coach organization\r- support continuous improvement"
+    : "scrum master\r- Coach Organization\r- Support Continuous Improvement"
+    focus: фокус
+    time: время
+    ? "development\rpractices"
+    : "development\rpractices"
+    ? "customers\r& users"
+    : "CUSTOMERS\r& users"
+    ? "higher\rmanagement"
+    : "HIGHER\rMANAGEMENT"
+    ? "customers\r/users"
+    : "CUSTOMERS\r/users"
+    product development: продуктовая разработка
+    product development company: Компания разработчик продукта
+    ? "r&d/ engineering/\rdevelopment"
+    : "r&d/ engineering/\rdevelopment"
+    ? "product management/\rmarketing/ business unit"
+    : "product management/\rmarketing/ business unit"
+    ? "technology/\rstandards features"
+    : "technology/\rstandards features"
+    ? "customer\rfeature\rrequests"
+    : "customer\rfeature\rrequests"
+    customers/markets: клиенты/рынки
+    internal (product) development: внутренняя (продукт) разработка
+    development/ technology/ it: разработка/ технология/ ит
+    business: бизнес
+    ? "feature\rpriority"
+    : "feature\rpriority"
+    requests: запросы
+    ? "product owner/\rlead user"
+    : "product owner/\rlead user"
+    project development: проектная разработка
+    ? "company receiving\rsystem/product"
+    : "company receiving\rsystem/product"
+    ? "development company\r/system integrator /outsourcer"
+    : "Development Company\r/System Integrator /OuTsourcer"
+    h: H
+    ? "uge\ritem"
+    : "uge\ritem"
+    ? "a1\r...\r...\r..."
+    : "a1\r...\r...\r..."
+    huge: огромный
+    a3: a3
+    a2: a2
+    area: область
+    a1: a1
+    ? "item\r...\r...\r..."
+    : "item\r...\r...\r..."
+    item: элемент
+    items: элементы
+    ? "area product\rowner"
+    : "area product\rowner"
+    ? "area backlog\r“huge”"
+    : "area backlog\r“huge”"
+    ? "bite #1\rbite #2\rbite #3\r\rmedium #1\rmedium #2\rmedium #3"
+    : "bite #1\rbite #2\rbite #3\r\rmedium #1\rmedium #2\rmedium #3"
+    updated area backlog: пополнение бэклога области
+    ? "start new team\rin area"
+    : "start new team\rin area"
+    ? "in product backlog\rrefinement"
+    : "in product backlog\rrefinement"
+    ? "partial split\r& bite"
+    : "partial split\r& bite"
+    area backlog “huge”: бэклог области “огромный”
+    ? "bite #1\rbite #2\rbite #3\rsmall #1\rsmall #2\rsmall #3\r\rmedium #3\rmedium
+      #4\rmedium #5"
+    : "bite #1\rbite #2\rbite #3\rsmall #1\rsmall #2\rsmall #3\r\rmedium #3\rmedium
+      #4\rmedium #5"
+    ? "up to 50%\rrefinement"
+    : "up to 50%\rrefinement"
+    area backlog: бэклог области
+    done: готово
+    sprints: спринты
+    ? "team #1 becomes\rleading team"
+    : "team #1 becomes\rleading team"
+    ? "team #2 joins\rbacklog refinement\rto learn new area"
+    : "team #2 joins\rbacklog refinement\rto learn new area"
+    ? "team #2\rjoins area"
+    : "team #2\rjoins area"
+    ? "start new\rteam in area"
+    : "start new\rteam in area"
+    ? "take a bite\rto start"
+    : "Take a bite\rto start"
+    ? "partial splitting\rand taking a bite"
+    : "partial splitting\rand taking a bite"
+    ? "less splitting\rof big feature"
+    : "less splitting\rof big feature"
+    ? "traditional splitting\rof big feature"
+    : "traditional splitting\rof big feature"
+    ? "all-at-once in equal\rpieces at the beginning"
+    : "all-at-once in equal\rpieces at the beginning"
+    ? "teaching problem\rsolving"
+    : "TEACHING PROBLEM\rSOLVING"
+    self-management: само-организованная
+    go see: ПОЙДИ ПОСМОТРИ
+    management: МЕНЕДЖМЕНТ
+    ? "improvement\rservice"
+    : "IMPROVEMENT\rSERVICE"
+    ? "manager\ras scrummaster?"
+    : "MANAGER\rAS SCRUMMASTER?"
+    role of manager: РОЛИ МЕНЕДЖЕРА
+    continuous delivery: НЕПРЕРЫВНАЯ ДОСТАВКА
+    clean code: ЧИСТЫЙ КОД
+    ? "architecture\r& design"
+    : "ARCHITECTURE\r& DESIGN"
+    ? "technical\rexcellence"
+    : "TECHNICAL\rEXCELLENCE"
+    unit testing: ЮНИТ ТЕСТИРОВАНИЕ
+    ? "acceptance\rtesting"
+    : "ACCEPTANCE\rTESTING"
+    specification by example: СПЕЦИФИКАЦИИ ПО ПРИМЕРУ
+    test automation: АВТОМАТИЗАЦИЯ ТЕСТИРОВАНИЯ
+    thinking about testing: ДУМАТЬ О ТЕСТИРОВАНИИ
+    test-driven development: РАЗРАБОТКА НА ОСНОВЕ ТЕСТОВ
+    ? "continuous\rintegration"
+    : "CONTINUOUS\rINTEGRATION"
+  chapters:
+    img/framework/definition-of-done: {}
+    img/framework/undone-work/growing-1: {}
+    img/framework/undone-work/resolving-using-undone-department: {}
+    img/framework/undone-work/resolving-using-pipelining: {}
+    img/framework/undone-work/resolving-using-release-sprint: {}
+    img/framework/undone-work/causing-risk-and-delay: {}
+    img/framework/product-backlog-refinement: {}
+    img/framework/sprint-planning: {}
+    img/framework/coordination-and-integration/communicate-in-code: {}
+    img/framework/coordination-and-integration/communities: {}
+    img/framework/coordination-and-integration/component-mentors: {}
+    img/framework/coordination-and-integration/just-talk: {}
+    img/framework/coordination-and-integration/open-space: {}
+    img/framework/coordination-and-integration/scout: {}
+    img/framework/coordination-and-integration/travelers: {}
+    img/framework/sprint-review-retrospective: {}
+    img/less-huge/less-huge-framework: {}
+    img/principles/principles: {}
+    img/framework/less-complete-picture: {}
+    img/framework/less-framework: {}
+    img/framework/why-less-framework (1): {}
+    img/framework/why-less-framework: {}
+    img/framework/sprint-planning-one-sketch: {}
+    img/framework/product-managers-discuss-sketch: {}
+    img/framework/splitting-at-whiteboard-sketch: {}
+    img/framework/multi-site-estimation-with-planning-poker-sketch: {}
+    img/framework/sprint-review-bazaar-sketch: {}
+    img/framework/multi-team-product-backlog-refinement-sketch: {}
+    img/adoption/use-volunteering: {}
+    img/adoption/coaching: {}
+    img/structure/component-team-model: {}
+    img/structure/feature-team: {}
+    img/adoption/feature-team-adoption-map: {}
+    img/adoption/feature-team-adoption-map-telecom: {}
+    img/adoption/feature-team-adoption-map-financial: {}
+    img/structure/feature-team-model: {}
+    img/structure/component-vs-feature-teams: {}
+    img/feature-teams/transition-component-teams-slow: {}
+    img/less-huge/less-huge-organizational-structure: {}
+    img/structure/typical-less-organizational-chart: {}
+    img/structure/organizing-by-customer-value: {}
+    img/less-huge/requirement-areas: {}
+    img/structure/two-dimensions-of-specialization: {}
+    img/structure/people-structure: {}
+    img/management/less-organization: {}
+    img/management/roles-on-focus-scale: {}
+    img/management/less-role-responsibilities: {}
+    img/structure/scrum-master-focus-over-time: {}
+    img/structure/product-owner-relationships-without-scrum-master: {}
+    img/framework/product-owner-relationships: {}
+    img/framework/who-is-the-product-owner-in-different-types-of-development: {}
+    img/framework/dealing-with-giants/creating-new-area-for-one-item: {}
+    img/framework/dealing-with-giants/backlog-refinement-before-joining-area: {}
+    img/framework/dealing-with-giants/building-bite-while-refining: {}
+    img/framework/dealing-with-giants/adding-new-teams: {}
+    img/framework/partial-splitting-and-taking-bites: {}
+    img/adoption/adoption-overview: {}
+    img/management/management-overview: {}
+    img/structure/structure-overview: {}
+    img/technical-excellence/technical-excellence-overview: {}
