@@ -114,7 +114,7 @@ ru:
     retrospective: ретроспектива
     sprint review: обзор спринта
     ? "scrum master\r& feature team"
-    : "скрамьмастер\r& фиче команда"
+    : "скрам-мастер\r& фиче команда"
     ? "sprint\rbacklog"
     : "бэклог\rспринта"
     ? "previous\rsprint"
