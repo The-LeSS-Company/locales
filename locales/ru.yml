@@ -7,34 +7,34 @@ ru:
 
   all:
     'potentially shippable ': 'потенциально готовый к поставке '
-    underlined ones are the definition of done: подчеркнутые это критерии готовности
-    monkey: monkey
-    system: система
+    underlined ones are the definition of done: подчеркнутые активности входят в критерии готовности
+    monkey: свободное/интуитивное
+    system: системное
     ? "user acceptance\racceptance"
-    : "User Acceptance\racceptance"
+    : "Пользовательское Приёмочное\rприёмочное"
     ? "unit\rintegration"
-    : "unit\rintegration"
+    : "модульное\rинтеграционное"
     ? "performance\rstability\rusability\rstress"
-    : "performance\rstability\rusability\rstress"
+    : "нагрузочное\rстабильности\rудобства\rстресс"
     smoke: smoke
-    "+ test": "+ тест"
+    "+ test": "+ тестирование"
     ? "+ update marketing material\r"
-    : "+ Update Marketing Material\r"
+    : "+ Обновление Маркетинговых Материалов\r"
     ? "+ static analysis\r+ integration\r+ packaging\r+ staging\r"
-    : "+ static analysis\r+ integration\r+ packaging\r+ staging\r"
+    : "+ статический анализ\r+ интеграция\r+ сборка\r+ развёртывание\r"
     ? "+ customer documentation\r"
-    : "+ Customer Documentation\r"
+    : "+ Пользовательская Документация\r"
     ? "+ risk evaluation\r"
-    : "+ risk evaluation\r"
+    : "+ оценка рисков\r"
     ? "+ code\r"
-    : "+ код\r"
+    : "+ кодирование\r"
     ? "+ approval\r"
-    : "+ approval\r"
+    : "+ согласование\r"
     ? "+ regulation\r"
-    : "+ regulation\r"
+    : "+ удовлетворение нормам \r"
     ? "+ prepare for customer feedback\r"
-    : "+ Prepare for Customer Feedback\r"
-    undone: несделанная
+    : "+ Готово для ОС от пользователей\r"
+    undone: неготовая работа
     r1-20: r1-20
     ? "product\rowner"
     : "Владелец\rПродукта"
@@ -42,22 +42,22 @@ ru:
     r41-60: r41-60
     r21-40: r21-40
     ? "undone\rdepartment"
-    : "undone\rdepartment"
-    release: релиз
+    : "отдел\rнеготовой работы"
+    release: выпуск
     ? "i want\rto ship"
-    : "i want\rto ship"
+    : "я хочу\rвыпустить"
     ? "release\rsprints"
-    : "релизные\rспринты"
+    : "релизный\rспринт"
     ? "risk and lack of transparency\rdelay and lack of flexibility"
-    : "Risk and Lack of Transparency\rDelay and Lack of Flexibility"
-    less product backlog refinement: LeSS уточнение бэклога продукта
+    : "Риск и Недостаток Прозрачности\rОтсрочка and Недостаток of Гибкости"
+    less product backlog refinement: уточнение бэклога продукта в LeSS
     ? "multi-team product\rbacklog refinement"
     : "многокомандное уточнение\rбэклога продукта"
     product backlog: бэклог продукта
     ? "items selected\rfor refinement"
-    : "элементы выбранные\rдля уточнения"
-    5 - 10% sprint: 5 - 10% спринт
-    short-ish: короткий
+    : "элементы, выбранные\rдля уточнения"
+    5 - 10% sprint: 5-10% ёмкости спринта
+    short-ish: короткое
     ? "product\rbacklog\rrefinement"
     : "уточнение\rбэклога\rпродукта"
     ? "overall\rproduct\rbacklog\rrefinement"
@@ -71,35 +71,35 @@ ru:
     : "смешанные группы\rиз команд"
     team: команда
     less sprint planning: LeSS планирование спринта
-    ? "multi-team\rsprint planning 2"
-    : "многокомандное\rпланирование спринта 2"
+    ? "multi-team\rsprint planning ч.2"
+    : "многокомандное\rпланирование спринта ч.2"
     sprint backlog: бэклог спринта
     selected items: выбранные элементы
     ? "initial design \r& plan"
     : "первоначальный дизайн\r& план"
     ? "selection & final\rclarification\rof items"
-    : "выбор & окончательное\rуточнение\rэлементов"
-    ? "sprint\rplanning 2"
-    : "планирование\rспринта 2"
-    ? "sprint\rplanning 1"
-    : "планирование\rспринта 1"
+    : "выбор и окончательное\rуточнение\rэлементов"
+    ? "sprint\rplanning ч.2"
+    : "планирование\rспринта ч.2"
+    ? "sprint\rplanning часть ч.1"
+    : "планирование\rспринта ч.1"
     ? "team or\rrepresentative(s) "
     : "команда или\rпредставитель(ли)"
-    component mentor: компонентный ментор
+    component mentor: ментор компонента
     open space: открытое пространство
     communities: сообщества
     traveler: путешественник
-    communicate in code: коммуникации в коде
+    communicate in code: коммуникация в коде
     just talk: просто поговорить
     scout: скаут
-    less sprint review & retrospective: LeSS обзор спринта & ретроспектива
+    less sprint review & retrospective: обзор спринта и ретроспектива в LeSS
     ? "overall\rretrospective"
     : "общая\rретроспектива"
     ? "team\rretrospective"
     : "командная\rретроспектива"
     ? "sprint\rreview"
     : "обзор\rспринта"
-    team rep.: командные пред.
+    team rep.: пред-ли команд
     scrummaster: скрам-мастер
     manager: менеджер
     ? "area\rbacklog"
@@ -123,26 +123,26 @@ ru:
     daily scrum: ежедневный Скрам
     transparency: прозрачность
     ? "more\rwith less"
-    : "MORE\rWITH LESS"
+    : "БОЛЬШЕ С\rПОМОЩЬЮ МЕНЬШЕГО"
     ? "customer\rcentric"
     : "CUSTOMER\rCENTRIC"
     ? "whole\rproduct\rfocus"
-    : "WHOLE\rPRODUCT\rFOCUS"
+    : "ФОКУС\rНА ПРОДУКТЕ\rЦЕЛИКОМ"
     ? "large-scale\rscrum is scrum"
-    : "LARGE-SCALE\rSCRUM IS SCRUM"
+    : "LESS\rЭТО СКРАМ"
     ? "empirical\rprocess control"
-    : "эмпирический\rконтроль процесса"
+    : "ЭМПИРИЧЕСКИЙ\rКОНТРОЛЬ ПРОЦЕССА"
     ? "continuous improvement\rtowards perfection"
-    : "непрерывное совершенствование\rк идеалу"
+    : "НЕПРЕРЫВНОЕ УЛУЧШЕНИЕ\rНА ПУТИ К СОВЕРШЕНСТВУ"
     ? "lean\rthinking"
-    : "LEAN\rTHINKING"
+    : "БЕРЕЖЛИВОЕ\rМЫШЛЕНИЕ"
     ? "systems\rthinking"
-    : "системное\rмышление"
-    queueing theory: теория очередей
-    experiments: эксперименты
-    guide: руководство
-    frameworks: фреймворки
-    principles: принципы
+    : "СИСТЕМНОЕ\rМЫШЛЕНИЕ"
+    queueing theory: ТЕОРИЯ МАССОВОГО ОБЛУЖИВАНИЯ
+    experiments: Эксперименты
+    guide: Руководство
+    frameworks: Фреймворки
+    principles: Принципы
     ? "potentially shippable \rproduct increment"
     : "потенциалоно готовый к поставке\rинкремент продукта"
     ? "scrummaster\r& feature team"
@@ -150,33 +150,33 @@ ru:
     less framework: LeSS фреймворк
     why less framework?: почему LeSS?
     ? "this is regulatory,\rpaolo. it’s never\rfinished or clear."
-    : "This is regulatory,\rPaolo. It’s never\rfinished or clear."
+    : "Это ведь регуляторка.\rОна никогда не\rбывает полной и понятной."
     ? "so this covers\rall the work right?"
-    : "So this covers\rall the work right?"
-    getting started: с чего начинать
+    : "Ну что, ты думаешь, вот\rэти покроют всю работу?"
+    getting started: с чего начать?
     ? "feature team\radoption map"
-    : "фиче команда\rкарта внедрения"
+    : "карта внедрения\rфиче команд"
     adoption: внедрение
     continuous improvement: постоянное улучшение
     coaching: коучинг
     three principles: три принципа
     ? "component\ra"
-    : "component\ra"
+    : "компонент\ra"
     ? "component\rb"
-    : "component\rb"
+    : "компонент\rb"
     ? "component\rc"
-    : "component\rC"
-    ? "comp c\rteam"
-    : "comp c\rteam"
-    ? "comp b\rteam"
-    : "comp B\rteam"
+    : "компонент\rC"
+    ? "comp c\rкоманда"
+    : "комп. c\rкоманда"
+    ? "comp b\rкоманда"
+    : "комп. B\rкоманда"
     "...": "..."
     item 4: элемент 4
     item 3: элемент 3
     item 2: элемент 2
     item 1: элемент 1
     ? "comp a\rteam"
-    : "comp a\rteam"
+    : "комп. a\rкоманда"
     ? team has the necessary knowledge and skills to complete an end-to-end customer-centric
       feature. if not, the team is expected to learn or acquire the needed knowledge
       and skill.
@@ -185,9 +185,9 @@ ru:
       and skill.
     feature team: фиче команда
     ? "cross-functional\rcross-component\rstable and long-lived"
-    : "cross-functional\rcross-component\rstable and long-lived"
+    : "кросс-функциональная\rкросс-компонентная\rстабильная и долгоживущая"
     ? "potentially shippable\rproduct increment"
-    : "potentially shippable\rproduct increment"
+    : "потенциально готовый к поставке\rинкремент продукта"
     ? "customer\rcentric\rfeature"
     : "customer\rcentric\rfeature"
     ? "ideal state!\rhard to achieve,\rgood to work towards"
@@ -256,13 +256,13 @@ ru:
     team wei: команда wei
     component teams: компонентная команда
     ? "feature\rteam red"
-    : "feature\rteam red"
+    : "фиче\rкрасная команда"
     ? "item 4\r\ttasks for a\r\ttasks for c"
-    : "item 4\r\ttasks for a\r\ttasks for c"
+    : "элемент 4\r\tзадачи для a\r\tзадачи для c"
     ? "item 3\r\ttasks for a\r\ttasks for b"
-    : "item 3\r\ttasks for a\r\ttasks for b"
+    : "элемент 3\r\tзадачи для a\r\tзадачи для b"
     ? "item 2\r\ttasks for a\r\ttasks for b"
-    : "item 2\r\ttasks for a\r\ttasks for b"
+    : "элемент 2\r\tзадачи дляr a\r\tзадачи для b"
     new requirements area: новая область требований
     ? "competence\r& coaching"
     : "competence\r& coaching"
@@ -301,7 +301,7 @@ ru:
     at gemba of value consumption: гемба потребления ценности
     users: пользователи
     ? "focus on\rcapability\rimprovement"
-    : "focus on\rcapability\rimprovement"
+    : "фокус на\rулучшении\rвозможностей"
     value: ценность
     need: необходимость
     ? "product\rfocus"
@@ -310,64 +310,62 @@ ru:
     : "организационный\rфокус"
     scrum master: скрам-мастер
     ? "product vision\r& direction"
-    : "product vision\r& direction"
+    : "видение и направление\rпродукта"
     ? "product creation\r& delivery"
-    : "product creation\r& delivery"
+    : "создание и\rпоставка продукта"
     ? "organizational\rcapability\rimprovement"
-    : "organiZational\rcapability\rimprovement"
+    : "улучшение\rrвозможностей \r поставлять"
     ? "product owner\r- provide vision and direction\r- prioritize features\r- understand
       users and markets\r- support organizational\r  strategic direction\r\r"
-    : "product owner\r- Provide Vision and Direction\r- Prioritize Features\r- Understand
-      Users and Markets\r- Support Organizational\r  Strategic Direction\r\r"
+    : "владелец продукта\r- Обеспечение видения и направления продукта\r- Приоритизация Требований\r- Понимание
+       Пользователей и Рынков\r- Поддержка Организационных\r  Стратегических Инициатив\r\r"
     ? "teams\r- create product\r- deliver product increment\r- coordinate and integrate\r-
       improve product creation\r- clarify features\r- understand user and\r  domain,work
       with them"
-    : "teams\r- Create Product\r- Deliver Product Increment\r- Coordinate and Integrate\r-
-      Improve Product Creation\r- clarify features\r- Understand User and\r  Domain,Work
-      with Them"
+    : "команды\r- Создание Продукта\r- Поставка Инкремента Продукта\r- Координация и Интеграция\r-
+      Улучшение Создания Продукта\r- Прояснение Требований\r- Понимание Пользователей и\r  Домена,Работа с Ними"
     ? "managers\r- improve capability of\r   development system\r- decide structure
       and policies"
-    : "managers\r- Improve Capability of\r   Development System\r- Decide Structure
-      and Policies"
+    : "менеджеры\r- Улучшение Возможностей of\r   по Поставки\r- Определение Структуры и Политик"
     ? "scrum master\r- coach organization\r- support continuous improvement"
-    : "scrum master\r- Coach Organization\r- Support Continuous Improvement"
+    : "скрам-мастер\r- Организационный Коучинг\r- Поддержка непрерывного совершенствования"
     focus: фокус
     time: время
     ? "development\rpractices"
-    : "development\rpractices"
+    : "практики\rразработки"
     ? "customers\r& users"
     : "заказчики\r/пользователи"
     ? "higher\rmanagement"
-    : "руководство"
+    : "топ\rменеджмент"
     ? "customers\r/users"
     : "заказчики\r/пользователи"
     product development: продуктовая разработка
     product development company: компания разработчик продукта
     ? "r&d/ engineering/\rdevelopment"
-    : "r&d/ engineering/\rdevelopment"
+    : "ниокр/ инженеры/\rразработка"
     ? "product management/\rmarketing/ business unit"
-    : "product management/\rmarketing/ business unit"
+    : "менеджмент продукта/\rмаркетинг/ отдел бизнеса"
     ? "technology/\rstandards features"
-    : "technology/\rstandards features"
+    : "технические/\rзадачи"
     ? "customer\rfeature\rrequests"
-    : "customer\rfeature\rrequests"
+    : "пользовательские\rзапросы\rна разработку"
     customers/markets: клиенты/рынки
     internal (product) development: внутренняя (продукт) разработка
     development/ technology/ it: разработка/ технология/ ит
     business: бизнес
     ? "feature\rpriority"
-    : "feature\rpriority"
+    : "приоритет\rтребований"
     requests: запросы
     ? "product owner/\rlead user"
     : "владелец продукта/\rведущий пользователь"
     project development: проектная разработка
     ? "company receiving\rsystem/product"
-    : "company receiving\rsystem/product"
+    : "компания, получающая\rсистему/продукт"
     ? "development company\r/system integrator /outsourcer"
-    : "Development Company\r/System Integrator /OuTsourcer"
-    h: H
+    : "Компания-разработчик\r/Системный интегратор /Подрядчик"
+    h: О
     ? "uge\ritem"
-    : "uge\ritem"
+    : "громный\rэлемент"
     ? "a1\r...\r...\r..."
     : "a1\r...\r...\r..."
     huge: огромный
@@ -401,37 +399,37 @@ ru:
     done: готово
     sprints: спринты
     ? "team #1 becomes\rleading team"
-    : "team #1 becomes\rleading team"
+    : "команда #1 становится\rведущей командой"
     ? "team #2 joins\rbacklog refinement\rto learn new area"
-    : "team #2 joins\rbacklog refinement\rto learn new area"
+    : "команда #2 присоединяется\rк уточнению бэклога,\rчтобы изучить область"
     ? "team #2\rjoins area"
-    : "team #2\rjoins area"
+    : "команда #2\rприсоединяется к области"
     ? "start new\rteam in area"
-    : "start new\rteam in area"
+    : "запустить новую\rкоманду в области"
     ? "take a bite\rto start"
-    : "Take a bite\rto start"
+    : "откусить немного,r\rчтобы начать"
     ? "partial splitting\rand taking a bite"
-    : "partial splitting\rand taking a bite"
+    : "частичное разбиение\rи Откусывать Понемногу"
     ? "less splitting\rof big feature"
-    : "less splitting\rof big feature"
+    : "разбиение  в LeSS\rкрупного требования"
     ? "traditional splitting\rof big feature"
-    : "traditional splitting\rof big feature"
+    : "традиционное разбиение\rкрупного требования"
     ? "all-at-once in equal\rpieces at the beginning"
-    : "all-at-once in equal\rpieces at the beginning"
+    : "разбиение за один раз\rна равные части в начале"
     ? "teaching problem\rsolving"
     : "TEACHING PROBLEM\rSOLVING"
-    self-management: само-организованная
-    go see: пойди посмотри
+    self-management: самоорганизованная
+    go see: пойди и посмотри
     management: менеджмент
     ? "improvement\rservice"
     : "IMPROVEMENT\rSERVICE"
     ? "manager\ras scrummaster?"
     : "менеджер как\rскрам-мастер?"
     role of manager: роли менеджера
-    continuous delivery: непрерывная доставка
+    continuous delivery: непрерывная поставка
     clean code: чистый код
     ? "architecture\r& design"
-    : "архитектура\r& дизайн"
+    : "архитектура\rи дизайн"
     ? "technical\rexcellence"
     : "техническое\rсовершенство"
     unit testing: модульное тестирование
