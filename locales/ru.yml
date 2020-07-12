@@ -8,19 +8,19 @@ ru:
   all:
     guides: Руководства
     'potentially shippable ': 'потенциально готовый к поставке '
-    underlined ones are the definition of done: подчеркнутые активности входят в критерии готовности
-    monkey: свободное/интуитивное
+    underlined ones are the definition of done: подчеркнутые входят в критерии готовности
+    monkey: свободное
     system: система
     ? "user acceptance\racceptance"
-    : "Пользовательское Приёмочное\rприёмочное"
+    : "пользовательское\rприёмочное"
     ? "unit\rintegration"
     : "модульное\rинтеграционное"
     ? "performance\rstability\rusability\rstress"
     : "нагрузочное\rстабильности\rудобства\rстресс"
-    smoke: smoke
+    smoke: дымовой
     "+ test": "+ тестирование"
     ? "+ update marketing material\r"
-    : "+ Обновление Маркетинговых Материалов\r"
+    : "+ Маркетинговые Материалы\r"
     ? "+ static analysis\r+ integration\r+ packaging\r+ staging\r"
     : "+ статический анализ\r+ интеграция\r+ сборка\r+ развёртывание\r"
     ? "+ customer documentation\r"
@@ -191,7 +191,7 @@ ru:
     ? "customer\rcentric\rfeature"
     : "клиенто-\rориентированная\rфича"
     ? "ideal state!\rhard to achieve,\rgood to work towards"
-    : "ideal state!\rhard to achieve,\rgood to work towards"
+    : "Идеальное состояние!\rтрудно достижимое,\rявляется ориентиром"
     ? "feature\rteams"
     : "фиче\rкоманды"
     ? "component\rteams"
@@ -202,8 +202,8 @@ ru:
       внутри команды. степень крос-функциональности
     ? "extended component teams\rconflict in scope in the team\rleading to duplication
       or\radditional coordination work"
-    : "extended component teams\rconflict in scope in the team\rleading to duplication
-      or\radditional coordination work"
+    : "Расширенные компонентные команды\rКонфликт между сферами деятельности команд\rведущее к дублированию работы
+      \rили дополнительной координационной работе"
     "+co-creation": "+совместное создание"
     ? "+analysis and\r  system test"
     : "+анализ и\r системныe тесты"
@@ -220,9 +220,9 @@ ru:
     whole system: вся система
     problem: проблема
     ? "would require involvement in\rstandardization oftelecom network"
-    : "would require involvement in\rstandardization oftelecom network"
+    : "необходимо вовлечение в\rустановление стандартов сетей телеком."
     ? "organizational constraint\ror scope of product group"
-    : "organizational constraint\ror scope of product group"
+    : "Организационное ограничение\rили границы продуктовой группы"
     outside current organizational scope: вне рамок нынешней организации
     goal next few years: цель следующих нескольких  лет
     current state: текущее состояние
@@ -239,11 +239,11 @@ ru:
     system component: системная компонента
     telecom network: телеком. сеть
     ? "would require involvement in lots\rof other companies in the ecosysytem"
-    : "would require involvement in lots\rof other companies in the ecosysytem"
+    : "необходимость вовлечения многих\rдругих организаций в этой области"
     ? "scope of\rproduct group"
-    : "scope of\rproduct group"
+    : "границы\rпродуктовой группы"
     ? "+analysis\rand uat"
-    : "+анализ\rи UAT"
+    : "+АНАЛИЗ\rи ПСИ"
     subcomponent: субкомпонента
     application: приложение
     trading product: торговый продукт
@@ -279,7 +279,7 @@ ru:
     ? "organizational\rstructure"
     : "ОРГАНИЗАЦИОННАЯ\rСТРУКТУРА"
     ? "organizing\rby customer value"
-    : "ORGANIZING\rBY CUSTOMER VALUE"
+    : "ОРГАНИЗАЦИЯ ПО\rЦЕННОСТИ ДЛЯ КЛИЕНТА"
     structure: СТРУКТУРА
     teams: КОМАНДЫ
     trade processing feature teams: торговые фиче команды
