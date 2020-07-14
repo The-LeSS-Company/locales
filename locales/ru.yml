@@ -419,12 +419,12 @@ ru:
     ? "teaching problem\rsolving"
     : "ОБУЧЕНИЕ МЕТОДАМ\rРЕШЕНИЯ ПРОБЛЕМ"
     self-management: САМООРГАНИЗАЦИЯ
-    go see: ПОЙДИ И ПОСТМОТРИ
+    go see: ПОЙДИ И ПОСМОТРИ
     management: МЕНЕДЖМЕНТ
     ? "improvement\rservice"
     : "СЕРВИС\rУЛУЧШЕНИЯ"
     ? "manager\ras scrummaster?"
-    : "МЕНЕДЖЕР КАМ\rСКРАМ-МАСТЕР?"
+    : "МЕНЕДЖЕР КАК\rСКРАМ-МАСТЕР?"
     role of manager: РОЛИ МЕНЕДЖЕРА
     continuous delivery: НЕПРЕРЫВНАЯ ПОСТАВКА
     clean code: ЧИСТЫЙ КОД
